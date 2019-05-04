@@ -1,5 +1,4 @@
-<!-- 3.22 - Learn React -->
-# 3.22 学习React
+### 3.22 学习React
 <!-- Learning React: -->
 <!-- Tutorial: Intro To React [read]
 ReactJS For Stupid People [read]
@@ -10,12 +9,19 @@ React Patterns Video Subscription [watch][$]
 React Enlightenment [read]
 REACT JS TUTORIAL #1 - Reactjs Javascript Introduction & Workspace Setup [watch] -->
 - [教程：React基础](https://facebook.github.io/react/tutorial/tutorial.html) [阅读]
+
 - [菜鸟学ReactJS](http://blog.andrewray.me/reactjs-for-stupid-people/) [阅读]
+
 - [ReactJS初学者指南](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) [观看]
+
 - [React v4完整介绍](https://frontendmasters.com/courses/complete-react-v4/) [观看][付费]
-- [React 🎄](https://react.holiday/) [read]
+
+- [React 🎄](https://react.holiday/) [阅读]
+
 - [React语法视频订阅](https://school.reactpatterns.com/) [观看][付费]
+
 - [React启蒙](https://www.reactenlightenment.com/) [阅读]
+
 - [ReactJS教程#1 - ReactJS JavaScript入门&工作域设置](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=6s) [观看]
 
 <!-- Mastering React: -->

@@ -120,7 +120,6 @@
 
 * [jsperf.com](https://jsperf.com/)
 
-<!-- Visualization, Static Analysis, Complexity, Coverage Tools: -->
 #### 可视化、静态分析、复杂度、覆盖工具：
 
 * [Coveralls](https://coveralls.io/) \[付费\]
@@ -159,7 +158,6 @@
 
 * [RegExr](http://regexr.com/)
 
-<!-- Authoring Convention Tools: -->
 #### 编写规范工具：
 
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)

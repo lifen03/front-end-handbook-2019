@@ -1,8 +1,5 @@
-<!-- 3.4 - Learn HTTP/Networks (Including CORS & WebSockets) -->
 ### 3.4 学习HTTP网络协议（包括CORS和WebSockets）
 
-<!-- HTTP - The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. 
-— [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) -->
 > ***HTTP** — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
 > *— [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)*
 
@@ -42,8 +39,6 @@
 
 * [HTTP60秒内的状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
 
-<!-- CORS - Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources (e.g., fonts) on a web page to be requested from another domain outside the domain from which the resource originated.
-— [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) -->
 > ***CORS** — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B7%A8%E4%BE%86%E6%BA%90%E8%B3%87%E6%BA%90%E5%85%B1%E4%BA%AB)*
@@ -58,8 +53,6 @@
 
 * [HTTP访问控制 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[观看\]
 
-<!-- WebSockets - WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.
-— [Wikipedia](https://en.wikipedia.org/wiki/WebSocket) -->
 > ***WebSockets** — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/WebSocket) & [中文地址](https://zh.wikipedia.org/wiki/WebSocket)*

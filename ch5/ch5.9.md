@@ -48,7 +48,6 @@
 
 #### CSS重置：
 
-<!-- > A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline. -->
 > *CSS重置(或“重置CSS”)是一组简短的、通常经过压缩(缩小)的CSS规则，用于将所有HTML元素的样式重置为一致的基线。*
 > 
 > *—[cssreset.com](http://cssreset.com/what-is-a-css-reset/)*
@@ -117,7 +116,6 @@
 
 * [purgecss](https://github.com/FullHuman/purgecss)
 
-<!-- Online Creation/Generation/Experimentation Tools: -->
 #### 在线创建、生成和测试工具:
 
 * [CSS Arrow Please](http://cssarrowplease.com/)

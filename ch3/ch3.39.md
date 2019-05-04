@@ -1,5 +1,5 @@
 <!-- 3.39 - Learn Multi-Device Development -->
-# 3.39 学习多设备开发
+### 3.39 学习多设备开发
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
 

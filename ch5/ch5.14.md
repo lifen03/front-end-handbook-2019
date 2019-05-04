@@ -4,11 +4,11 @@
 
 * [A11Y风格指南](http://a11y-style-guide.com/style-guide/)
 
-* [可触达性指南清单](http://accessibility.voxmedia.com)
+* [无障碍访问指南清单](http://accessibility.voxmedia.com)
 
 * [交互式WCAG 2.0](http://code.viget.com/interactive-wcag/)
 
-* [18F可触达性指南](https://pages.18f.gov/accessibility/checklist/)
+* [18F无障碍访问指南](https://pages.18f.gov/accessibility/checklist/)
 
 #### 网站扫描仪
 
@@ -16,9 +16,9 @@
 
 * [Chrome辅助开发工具](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 
-* [Tenon可触达性工具](https://tenon.io)
+* [Tenon无障碍访问工具](https://tenon.io)
 
-* [WAVE可触达性工具](http://wave.webaim.org)
+* [WAVE无障碍访问工具](http://wave.webaim.org)
 
 #### 颜色对比测试
 
@@ -64,14 +64,14 @@
 
 #### 文章
 
-* [Getting Started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
+* [ARIA快速入门](http://a11yproject.com/posts/getting-started-aria/)
 
-* [重新定义Web的可触达性](http://alistapart.com/article/reframing-accessibility-for-the-web)
+* [重新定义Web的无障碍访问](http://alistapart.com/article/reframing-accessibility-for-the-web)
 
 * [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 
-* [MDN易访问性指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+* [MDN无障碍访问指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-* [在Chrome开发工具中启用可触达性面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
+* [在Chrome开发工具中启用无障碍访问面板](https://umaar.com/dev-tips/101-accessibility-inspection/)

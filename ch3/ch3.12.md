@@ -1,4 +1,3 @@
-<!-- 3.12 - Learn Web Animation -->
 ### 3.12 学习Web动画
 
 #### 基础学习:

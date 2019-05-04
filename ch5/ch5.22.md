@@ -28,7 +28,6 @@
 
 * [ZingChart](http://www.zingchart.com/) \[部分免费\]
 
-<!-- #### Services (i.e. hosted data visualization services for embedding and sharing): -->
 ### 服务（用于嵌入和分享的托管数据可视化服务）：
 
 * [ChartBlocks](http://www.chartblocks.com/) \[部分免费\]

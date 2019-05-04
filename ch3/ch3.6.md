@@ -1,4 +1,3 @@
-<!-- 3.6 - Learn General Front-End Development -->
 ### 3.6 学习前端开发基础
 
 * [网上每天的前端训练营](https://github.com/Microsoft/frontend-bootcamp) \[阅读\]

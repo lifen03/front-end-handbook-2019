@@ -1,5 +1,4 @@
-<!-- 3.24 - Learn Progressive Web App -->
-# 3.24 学习渐进式网页应用（PWA）
+### 3.24 学习渐进式网页应用（PWA）
 <!-- Unlike traditional applications, progressive web apps are a hybrid of regular web pages (or websites) and a mobile application. This new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience. -->
 
 

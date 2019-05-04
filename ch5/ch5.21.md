@@ -32,7 +32,5 @@
 
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
-<!-- If you need a basic set of UI Widgets/Components start with Semantic UI. If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at Kendo UI or Webix. Keep in mind that most of these solutions still require jQuery. -->
-
 如果需要一组基础UI小部件和组件，可以从[Semantic UI](http://semantic-ui.com/)开始。
 如果你正在构建一些需要网格、电子表格或主网格的东西，你必须查看[Kendo UI](http://www.telerik.com/kendo-ui)或者[Webix](http://webix.com/)。请记住，这些解决方案中的大多数仍然需要jQuery。

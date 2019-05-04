@@ -30,7 +30,6 @@
 
 * [should.js](http://shouldjs.github.io/)
 
-<!-- Test Spies, Stubs, and Mocks for Unit Testing: -->
 #### 用于单元测试的测试监听，存根和模拟：
 
 * [sinon.js](http://sinonjs.org/)
