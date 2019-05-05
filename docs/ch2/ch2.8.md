@@ -1,6 +1,6 @@
 ### 2.8 前端面试
 
-### 准备：
+**准备：**
 
 - [2017年前端开发者面试准备](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 
@@ -29,6 +29,7 @@
 
 - [前端JavaScript最佳面试题（由一位前端工程师所编著）](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
 
-### 你的疑问:
+**你的疑问:**
 
 - [一份开发者可向未来老板提问的开源列表](https://github.com/ChiperSoft/InterviewThis)
+

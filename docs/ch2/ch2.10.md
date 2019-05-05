@@ -7,3 +7,4 @@
 > 注：
 >
 > 1、一个领导级别或者高级的前端开发者或工程师可以住他想住的任何地方（也就是远程办公）而且年薪超过15万（访问[angel.co](https://angel.co/jobs)、注册、留意超过15万美元年薪的前端职位或在[Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)测试你的薪水范围）
+

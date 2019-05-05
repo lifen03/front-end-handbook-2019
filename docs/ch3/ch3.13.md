@@ -7,7 +7,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Web_typography) & [中文地址](https://zh.wikipedia.org/wiki/Web%E5%AD%97%E4%BD%93%E6%8E%92%E5%8D%B0)*
 
-#### 字体:
+**字体:**
 
 * [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
 
@@ -21,14 +21,15 @@
 
 * [Web排版](http://www.pluralsight.com/courses/typography-for-web-1790) \[观看\]\[付费\]
 
-#### 图标:
+**图标:**
 
 * [\[阅读\]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) \[观看\]
 
-#### 图像:
+**图像:**
 
 * [MDN: HTML中的图像](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) \[阅读\]
 
 * [MDN: 响应式图像](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) \[阅读\]
 
 * [WEB里的SVG — 实用指南](https://svgontheweb.com/) \[阅读\]
+

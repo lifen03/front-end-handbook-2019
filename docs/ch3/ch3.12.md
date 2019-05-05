@@ -1,6 +1,6 @@
 ### 3.12 学习Web动画
 
-#### 基础学习:
+**基础学习:**
 
 * [SVG要素和动画, v2](https://frontendmasters.com/courses/svg-essentials-animation/) \[付费\]\[观看\]
 
@@ -25,6 +25,7 @@
 * [使用JavaScript开发Web动画：开发和设计（开发和设计）](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[付费\]\[阅读\]
 
 
-#### 标准和规范：
+**标准和规范：**
 
 * [Web动画](https://w3c.github.io/web-animations/)
+

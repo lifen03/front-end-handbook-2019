@@ -63,7 +63,6 @@
 - [CSS参考](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 **超文本传输协议（HTTP）**
-<!-- The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. -->
 
 > *超文本传输协议（HTTP）一种用于分布式、协作的，超媒体信息系统的应用层协议。HTTP是WWW的数据通讯的基础。*
 >
@@ -113,7 +112,7 @@
 
 - [ECMAScript语言规范大全](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 
-### Web API (HTML5以及相关)
+**Web API (HTML5以及相关)**
 
 > *当使用JavaScript为Web编写代码时，有非常多可用的API。下面列出了开发Web应用程序或站点时可能使用的所有接口(即对象类型)。*
 > 
@@ -146,3 +145,4 @@
 - [网页无障碍访问倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
 
 - [Web内容无障碍访问指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
+

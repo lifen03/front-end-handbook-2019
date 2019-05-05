@@ -76,3 +76,4 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 > 注：
 >
 > 1、确定你已经清楚地理解了“Web平台”的含义。阅读“[Web开放平台](https://en.wikipedia.org/wiki/Open_Web_Platform)”的维基百科页面。探索构成Web平台相关的[众多技术](https://platform.html5.org/)。
+

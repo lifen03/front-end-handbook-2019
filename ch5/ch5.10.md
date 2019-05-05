@@ -1,6 +1,6 @@
 ### 5.10 DOM工具
 
-#### DOM库和框架：
+**DOM库和框架：**
 
 * [Bliss](http://blissfuljs.com/docs.html)
 
@@ -17,7 +17,7 @@
 
 * [nanoJS](https://vladocar.github.io/nanoJS/)
 
-#### DOM实用工具：
+**DOM实用工具：**
 
 * [Keypress](http://dmauro.github.io/Keypress/)
 
@@ -25,17 +25,17 @@
 
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 
-#### DOM事件工具：
+**DOM事件工具：**
 
 * [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
 
-#### DOM性能工具：
+**DOM性能工具：**
 
 * [Chrome DevTools Timeline](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
 
 * [DOM Monster](http://mir.aculo.us/dom-monster/)
 
-#### 参考文献：
+**参考文献：**
 
 * [Events](https://html.spec.whatwg.org/#events-2)
 
@@ -55,14 +55,15 @@
 
 * [MSDN Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
-#### DOM Polyfills/Shims:
+**DOM Polyfills/Shims:**
 
 * [dom-shims](https://github.com/necolas/dom-shims)
 
 * [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)
 
-#### 虚拟DOM:
+**虚拟DOM:**
 
 * [jsdom](https://github.com/tmpvar/jsdom)
 
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+

@@ -16,7 +16,7 @@
 
 理想的路径，肯定是最困难的，首先是学习JavaScript，然后是DOM，然后是jQuery。 但是，做一些对你的大脑有意义的事情。 大多数前端开发者通过首先学习jQuery来学习JavaScript然后学习DOM。 无论你采取什么样的路径，只要确保JavaScript，DOM和jQuery不会变成黑盒子。
 
-#### 基础学习：
+**基础学习：**
 
 * [文档对象模型](http://eloquentjavascript.net/13_dom.html) \[阅读\]
 
@@ -28,7 +28,7 @@
 
 * [什么是DOM？](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) \[阅读\]
 
-#### 掌握：
+**掌握：**
 
 * [AdvancED DOM 脚本：动态网页设计技术](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y) \[阅读\]\[付费\]
 
@@ -44,7 +44,7 @@
 
 * [jQuery提示和技巧](http://www.pluralsight.com/courses/jquery-tips-and-tricks) \[观看\]\[付费\]
 
-#### 参考文献/文档：
+**参考文献/文档：**
 
 * [jQuery文档](http://api.jquery.com/)
 
@@ -68,7 +68,7 @@
 
 * [CSS对象模型（CSSOM）](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
 
-#### 标准/规范：
+**标准/规范：**
 
 * [文档对象模型（DOM）3级事件规范](https://www.w3.org/TR/DOM-Level-3-Events/)
 
@@ -77,3 +77,4 @@
 * [DOM Living标准](https://dom.spec.whatwg.org/)
 
 * [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
+

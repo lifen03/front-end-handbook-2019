@@ -13,7 +13,7 @@
 > 
 > *— [维基百科](https://en.wikipedia.org/wiki/Accessibility) & [中文地址](https://zh.wikipedia.org/wiki/%E7%84%A1%E9%9A%9C%E7%A4%99%E7%92%B0%E5%A2%83)*
 
-#### 基础学习:
+**基础学习:**
 
 * [获得最低限度的网页可触达性访问的9个技巧](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 
@@ -36,7 +36,7 @@
 
 * [谷歌的可触达性访问](https://www.udacity.com/course/web-accessibility--ud891) \- Udacity course \[观看\]
 
-#### 标准和规范:
+**标准和规范:**
 
 * [可触达性的富Internet应用程序(WAI-ARIA)当前状态](http://www.w3.org/standards/techs/aria#w3c_all)
 

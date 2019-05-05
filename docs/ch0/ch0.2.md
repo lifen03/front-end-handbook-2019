@@ -27,3 +27,4 @@
 - 此外，越来越多项目开始抛弃jQuery，转而使用原生DOM解决方案。
 
 - [Web组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components)!在这一点上，我不知道Web组件将如何发挥作用。事实是，它们不会消失，一旦炒作结束，他们就不能获得太多的势头和使用。
+

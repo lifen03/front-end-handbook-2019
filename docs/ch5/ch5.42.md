@@ -1,4 +1,3 @@
-<!-- 5.42 - Performance Tools -->
 ### 5.42 性能工具
 
 **报告：**
@@ -42,3 +41,4 @@
 + [前端清单](https://frontendchecklist.io/)
 
 + [2019前端性能清单 [PDF，Apple Pages，MS Word]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) [阅读]
+

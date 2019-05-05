@@ -4,7 +4,7 @@
 >
 > *— [维基百科]（https://en.wikipedia.org/wiki/JavaScript）& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
 
-#### 入门:
+**入门:**
 
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) \[阅读\]
 
@@ -14,7 +14,7 @@
 
 * [动人的JavaScript](http://eloquentjavascript.net/) \[阅读\]
 
-#### 基础学习：
+**基础学习：**
 
 * [说说JavaScript](http://speakingjs.com/es5/index.html) \[阅读\]
 
@@ -34,7 +34,7 @@
 
 * [JavaScript的深层基础 (v3)](https://frontendmasters.com/courses/deep-javascript-v3/) \[观看\]\[付费\]
 
-#### 掌握：
+**掌握：**
 
 * [配置ES6](https://leanpub.com/setting-up-es6) \[阅读\]
 
@@ -72,7 +72,7 @@
 
 * [doesitmutate.xyz](https://doesitmutate.xyz/) \[阅读\]
 
-#### JavaScript函数式:
+**JavaScript函数式:**
 
 * [函数式编程术语](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
 
@@ -92,13 +92,13 @@
 
 * [JavaScript中硬核的函数式编程](https://frontendmasters.com/courses/functional-javascript/) \[观看\]\[付费\]
 
-#### 参考文献和文档：
+**参考文献和文档：**
 
 * [MDN JavaScript参考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 * [MSDN JavaScript参考](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
-#### 词汇/百科全书/专业术语：
+**词汇/百科全书/专业术语：**
 
 * [JavaScript百科全书](http://www.crockford.com/javascript/encyclopedia/)
 
@@ -106,7 +106,7 @@
 
 * [简化的JavaScript专业术语](http://jargon.js.org/)
 
-#### 标准/规范：
+**标准/规范：**
 
 * [如何阅读ECMAScript规范](https://timothygu.me/es-howto/)
 
@@ -122,7 +122,7 @@
 
 * [ECMA262的状态、流程和文档](https://github.com/tc39/ecma262)
 
-#### 样式：
+**样式：**
 
 * [JavaScript Airbnb风格指南](http://airbnb.io/javascript/)
 
@@ -130,7 +130,7 @@
 
 * [JavaScript半标准风格](https://github.com/Flet/semistandard)
 
-#### 不推荐使用的JS学习资源：
+**不推荐使用的JS学习资源：**
 
 * [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
 
@@ -156,10 +156,11 @@
 
 * [高性能JavaScript（构建更快的Web应用程序接口）](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) \[阅读\]\[付费\]
 
-#### JS搜索可视化:
+**JS搜索可视化:**
 
 * [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 
 * [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
 
 * [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
+

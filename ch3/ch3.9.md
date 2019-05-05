@@ -8,7 +8,7 @@
 
 *图像来源: [https://visual.ly/community/infographic/computers/how-does-seo-work](https://visual.ly/community/infographic/computers/how-does-seo-work)*
 
-#### 基础学习：
+**基础学习：**
 
 * [Google搜索引擎优化入门指南](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[阅读\]
 

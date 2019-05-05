@@ -3,17 +3,17 @@
 > ***HTTP** — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
 > *— [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)*
 
-#### HTTP说明
+**HTTP说明**
 
 * [HTTP/2](https://http2.github.io/)
 
 * [超文本传输协议 -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 
-#### HTTP文档
+**HTTP文档**
 
 * [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) \[观看\]
 
-#### HTTP视频、文章和教程
+**HTTP视频、文章和教程**
 
 * [高性能浏览器网络：每个Web开发者应该了解的关于网络和Web性能的内容](http://chimera.labs.oreilly.com/books/1230000000545/index.html) \[观看\]
 
@@ -33,7 +33,7 @@
 
 * [HTTP简介](http://code.tutsplus.com/series/http-succinctly--net-33683) \[观看\]
 
-#### HTTP状态码
+**HTTP状态码**
 
 * [HTTP状态码](https://httpstatuses.com/)
 
@@ -43,21 +43,21 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B7%A8%E4%BE%86%E6%BA%90%E8%B3%87%E6%BA%90%E5%85%B1%E4%BA%AB)*
 
-#### CORS说明
+**CORS说明**
 
 * [跨域资源共享](https://www.w3.org/TR/cors/)
 
-#### CORS
+**CORS**
 
 * [CORS实践](https://www.amazon.com/CORS-Action-Creating-consuming-cross-origin/dp/161729182X/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=47ebd885d688a4ed69f77a1bd8273f8a&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [HTTP访问控制 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[观看\]
 
-> ***WebSockets** — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
+> ***WebSocket** — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/WebSocket) & [中文地址](https://zh.wikipedia.org/wiki/WebSocket)*
 
-#### WebSockets
+**WebSocket**
 
 * [使用WebSocket连接Web](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[观看\]
 

@@ -11,7 +11,7 @@
 
 就像要建造房屋，人们可能会认为HTML是结构和CSS是绘画和装饰。
 
-#### 基础学习：
+**基础学习：**
 
 * [CSS中的绝对居中定位](http://codepen.io/shshaw/full/gEiDt) \[阅读\]
 
@@ -51,7 +51,7 @@
 
 * [弹性的网页设计](https://resilientwebdesign.com/) \[阅读\]
 
-#### 掌握CSS：
+**掌握CSS：**
 
 * [Flexbox完整指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
 
@@ -71,7 +71,7 @@
 
 * [CSS30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
 
-#### 参考文献和文档：
+**参考文献和文档：**
 
 * [CSS触发器...布局，绘画和复合的游戏](http://csstriggers.com/)
 
@@ -89,7 +89,7 @@
 
 * [MDN HTML元素参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-#### 词汇：
+**词汇：**
 
 * [CSS词汇表 - CSS覆盖注释，属性和选择器的编程参考](https://www.codecademy.com/articles/glossary-css)
 
@@ -97,7 +97,7 @@
 
 * [HTML元素的编程参考的HTML词汇表](https://www.codecademy.com/articles/glossary-html)
 
-#### 规范标准：
+**规范标准：**
 
 * [所有W3C CSS规范](http://www.w3.org/Style/CSS/current-work#roadmap)
 
@@ -117,7 +117,7 @@
 
 * [Level 3 选择器](http://www.w3.org/TR/css3-selectors/)
 
-#### CSS框架：
+**CSS框架：**
 
 * [原子设计](http://atomicdesign.bradfrost.com/) \[阅读\]
 
@@ -135,7 +135,7 @@
 
 * [rscss](http://rscss.io/)
 
-#### 书写规范
+**书写规范**
 
 * [CSS编码指南](http://codeguide.co/#css) \[阅读\]
 
@@ -148,3 +148,4 @@
 * [可维护的CSS](http://maintainablecss.com/) \[阅读\]
 
 * [灵活，耐用，可持续的HTML和CSS的开发标准](http://mdo.github.io/code-guide/) \[阅读\]
+

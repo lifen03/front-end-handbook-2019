@@ -43,3 +43,4 @@
 - [WebView](http://developer.telerik.com/featured/what-is-a-webview/)或浏览器标签（[iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)）被嵌入在原生应用中，桥接原生API运行。WebView应用通常包含由Web技术构造的UI。（例如：HTML、CSS和JS）（例如：[Apache Cordova](https://cordova.apache.org/)、[NW.js](http://nwjs.io/)、 [Electron](http://electron.atom.io/)）
 
 - 由Web技术构建的原生应用程序，在运行时通过原生API的桥接进行解析。UI将使用原生UI部分（例如：iOS原生控制）而非Web技术。（例子：[NativeScript](https://www.nativescript.org/)，[React Native](https://facebook.github.io/react-native/)）
+

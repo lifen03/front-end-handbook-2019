@@ -1,4 +1,4 @@
-### 第6章 前端社区、简报、新闻网站和播客
+## 第6章 前端社区、简报、新闻网站和播客
 
 **一般的前端简报、新闻和播客：**
 
@@ -70,7 +70,7 @@
 
 + [前端](https://spectrum.chat/frontend/)系列
   
-> 提注：
+> 注：
 >
 > 1.需要更多简报，新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
 >

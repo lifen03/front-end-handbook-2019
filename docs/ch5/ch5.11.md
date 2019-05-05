@@ -1,6 +1,6 @@
 ### 5.11 JavaScript工具
 
-#### JS使用工具：
+**JS使用工具：**
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 
@@ -52,19 +52,19 @@
 
 * [xregexp.com](http://xregexp.com/)
 
-#### 转换JavaScript对象工具:
+**转换JavaScript对象工具:**
 
 * [transform-www](https://transform.now.sh/)
 
-#### 转译和类型检查(ES _to ES_):
+**转译和类型检查(ES _to ES_):**
 
 * [TypeScript](https://www.typescriptlang.org/)
 
-#### 类型检查(ES _to ES_):
+**类型检查(ES _to ES_):**
 
 * [Flow](https://flowtype.org/)
 
-#### 转译(ES _to ES_):
+**转译(ES _to ES_):**
 
 * [Babel](https://babeljs.io/)
 
@@ -72,15 +72,15 @@
 
 * [scw](https://swc-project.github.io/)
 
-#### 代码分析引擎：
+**代码分析引擎：**
 
 * [Tern](https://ternjs.net/)
 
-#### 校验提示和风格校验:
+**校验提示和风格校验:**
 
 * [eslint](http://eslint.org/)
 
-#### 单元测试：
+**单元测试：**
 
 * [AVA](https://github.com/avajs/ava)
 
@@ -90,7 +90,7 @@
 
 * [Tape](https://github.com/substack/tape)
 
-#### 单元测试的测试断言：
+**单元测试的测试断言：**
 
 * [Chai](http://chaijs.com/)
 
@@ -98,13 +98,13 @@
 
 * [should.js](http://shouldjs.github.io/)
 
-#### 用于单元测试的测试间谍、存根和Mocks:
+**用于单元测试的测试间谍、存根和Mocks:**
 
 * [sinon.js](http://sinonjs.org/)
 
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-#### 代码格式化和美化：
+**代码格式化和美化：**
 
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 
@@ -114,13 +114,13 @@
 
 * [prettier](https://github.com/jlongster/prettier)
 
-#### 性能测试：
+**性能测试：**
 
 * [benchmark.js](http://benchmarkjs.com/)
 
 * [jsperf.com](https://jsperf.com/)
 
-#### 可视化、静态分析、复杂度、覆盖工具：
+**可视化、静态分析、复杂度、覆盖工具：**
 
 * [Coveralls](https://coveralls.io/) \[付费\]
 
@@ -128,7 +128,7 @@
 
 * [istanbul](https://github.com/gotwarlost/istanbul)
 
-#### 优化:
+**优化:**
 
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 
@@ -138,17 +138,17 @@
 
 * [Prepack](https://prepack.io/)
 
-#### 混淆：
+**混淆：**
 
 * [Javascript Obfuscator](http://www.javascriptobfuscator.com/) \[免费\]
 
 * [JScrambler](https://jscrambler.com/) \[付费\]
 
-#### 可分享和可运行的代码编辑器:
+**可分享和可运行的代码编辑器:**
 
 * [CodeSandbox](https://codesandbox.io/) \[免费\]
 
-#### 在线正则表达式编辑器和可视化工具:
+**在线正则表达式编辑器和可视化工具:**
 
 * [debuggex](https://www.debuggex.com)
 
@@ -158,16 +158,17 @@
 
 * [RegExr](http://regexr.com/)
 
-#### 编写规范工具：
+**编写规范工具：**
 
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
 
 * [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
-#### 本月在GitHub上流行的JS库：
+**本月在GitHub上流行的JS库：**
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
-#### 被依赖最多的NPM包：
+**被依赖最多的NPM包：**
 
 [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
+
