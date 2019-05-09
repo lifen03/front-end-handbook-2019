@@ -19,7 +19,7 @@
 
 8. Web API（HTML5以及相关 或 浏览器API）
 
-9. Web内容无障碍访问指引（WCAG）& 无障碍的富网络应用程序（ARIA）
+9. Web内容无障碍指引（WCAG）& 无障碍的富网络应用程序（ARIA）
 
 一个所有网页相关规范的综合性列表，请参阅[platform.html5.org](https://platform.html5.org/)或[MDN Web API](https://developer.mozilla.org/en-US/docs/Web/API)。
 
@@ -136,13 +136,13 @@
 
 - [JSON数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
-**Web内容无障碍访问指南(WCAG)和无障碍的富互联网应用程序(ARIA)**
+**Web内容无障碍指南(WCAG)和无障碍的富互联网应用程序(ARIA)**
 
 > *无障碍是指为残疾人设计产品、设备、服务或环境。无障碍设计的概念确保了两者的“直接访问”(即和“间接访问”，意思是与某人的辅助技术(例如，计算机屏幕阅读器)的兼容性。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Accessibility) & [中文地址](https://zh.wikipedia.org/zh-cn/%E7%B6%B2%E9%A0%81%E8%A6%AA%E5%92%8C%E5%8A%9B)*
 
-- [网页无障碍访问倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
+- [网页无障碍倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
 
-- [Web内容无障碍访问指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
+- [Web内容无障碍指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
 

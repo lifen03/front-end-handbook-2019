@@ -282,7 +282,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **前端SEO专家**：包含“SEO”的职称，描述的是开发者具备以SEO策略来设计前端技术的丰富经验。
 
-**前端无障碍访问专家**：包含“无障碍访问”的职称，描述的是开发者具备以支持无障碍访问要求和标准来设计前端技术的丰富经验。
+**前端无障碍专家**：包含“无障碍”的职称，描述的是开发者具备以支持无障碍要求和标准来设计前端技术的丰富经验。
 
 **前端运维开发**：包含“运维开发”的职称，描述的是开发者具备与合作、集成、部署、自动化和质量相关软件开发实践的丰富经验。
 
@@ -313,7 +313,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 8. Web API（HTML5以及相关 或 浏览器API）
 
-9. Web内容无障碍访问指引（WCAG）& 无障碍的富网络应用程序（ARIA）
+9. Web内容无障碍指引（WCAG）& 无障碍的富网络应用程序（ARIA）
 
 一个所有网页相关规范的综合性列表，请参阅[platform.html5.org](https://platform.html5.org/)或[MDN Web API](https://developer.mozilla.org/en-US/docs/Web/API)。
 
@@ -430,15 +430,15 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - [JSON数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
-**Web内容无障碍访问指南(WCAG)和无障碍的富互联网应用程序(ARIA)**
+**Web内容无障碍指南(WCAG)和无障碍的富互联网应用程序(ARIA)**
 
 > *无障碍是指为残疾人设计产品、设备、服务或环境。无障碍设计的概念确保了两者的“直接访问”(即和“间接访问”，意思是与某人的辅助技术(例如，计算机屏幕阅读器)的兼容性。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Accessibility) & [中文地址](https://zh.wikipedia.org/zh-cn/%E7%B6%B2%E9%A0%81%E8%A6%AA%E5%92%8C%E5%8A%9B)*
 
-- [网页无障碍访问倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
+- [网页无障碍倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
 
-- [Web内容无障碍访问指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
+- [Web内容无障碍指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
 
 ### 2.4 潜在的前端开发者技能
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/front-end-skills.png)
@@ -460,7 +460,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - 跨设备测试
 
-- 无障碍访问和WAI-ARIA
+- 无障碍和WAI-ARIA
 
 - 搜索引擎优化（SEO）
 
@@ -3014,11 +3014,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [A11Y风格指南](http://a11y-style-guide.com/style-guide/)
 
-* [无障碍访问指南清单](http://accessibility.voxmedia.com)
+* [无障碍指南清单](http://accessibility.voxmedia.com)
 
 * [交互式WCAG 2.0](http://code.viget.com/interactive-wcag/)
 
-* [18F无障碍访问指南](https://pages.18f.gov/accessibility/checklist/)
+* [18F无障碍指南](https://pages.18f.gov/accessibility/checklist/)
 
 **网站扫描仪**
 
@@ -3026,9 +3026,9 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [Chrome辅助开发工具](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 
-* [Tenon无障碍访问工具](https://tenon.io)
+* [Tenon无障碍工具](https://tenon.io)
 
-* [WAVE无障碍访问工具](http://wave.webaim.org)
+* [WAVE无障碍工具](http://wave.webaim.org)
 
 **颜色对比测试**
 
@@ -3076,15 +3076,15 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [ARIA快速入门](http://a11yproject.com/posts/getting-started-aria/)
 
-* [重新定义Web的无障碍访问](http://alistapart.com/article/reframing-accessibility-for-the-web)
+* [重新定义Web的无障碍](http://alistapart.com/article/reframing-accessibility-for-the-web)
 
 * [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 
-* [MDN无障碍访问指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+* [MDN无障碍指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-* [在Chrome开发工具中启用无障碍访问面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
+* [在Chrome开发工具中启用无障碍面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
 
 ### 5.15 应用程序框架（桌面，移动，平板电脑等）工具
 
