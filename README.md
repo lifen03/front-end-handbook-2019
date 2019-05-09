@@ -1,6 +1,6 @@
 # 前端开发者手册2019
 
-**[Cody Lindley](http://codylindley.com/)编著 [原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)**
+**[Cody Lindley](http://codylindley.com/) 编著 [原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)**
 
 本手册由[Frontend Masters](https://frontendmasters.com/)赞助，通过深入现代化的前端工程课程来提高你的技能。
 
