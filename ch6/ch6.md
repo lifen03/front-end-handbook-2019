@@ -2,13 +2,13 @@
 
 **一般的前端简报、新闻和播客：**
 
-+ [he Big Web Show](http://5by5.tv/bigwebshow)
++ [大型Web秀](http://5by5.tv/bigwebshow)
 
 + [开发贴士](https://umaar.com/dev-tips/)
 
 + [前端欢乐时光](http://frontendhappyhour.com/)
 
-+ [前端正面](http://frontendfront.com/)
++ [前端前端](http://frontendfront.com/)
 
 + [前端焦点](http://frontendfocus.co/)
 
@@ -34,13 +34,13 @@
 
 **HTML/CSS简报：**
 
-+ [可触达性周刊](http://a11yweekly.com/)
++ [无障碍周刊](http://a11yweekly.com/)
 
 + [CSS周刊](http://css-weekly.com/archives/)
 
 + [CSS布局新闻](http://csslayout.news/)
 
-**JavaScript简报，新闻和播客：**
+**JavaScript简报、新闻和播客：**
 
 + [超赞的JavaScript简报](https://js.libhunt.com/newsletter?f=es-top-d)
 
@@ -48,7 +48,7 @@
 
 + [ECMAScript日志](https://ecmascript-daily.github.io/)
 
-+ [ES下一则新闻](http://esnextnews.com/)
++ [ES最新消息](http://esnextnews.com/)
 
 + [闲聊JavaScript](https://devchat.tv/js-jabber/)
 
@@ -72,7 +72,7 @@
   
 > 注：
 >
-> 1.需要更多简报，新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
+> 1.需要更多简报、新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
 >
 > 2.通过搜索[https://www.meetup.com/](https://www.meetup.com/)查找本地前端开发社区  
 >

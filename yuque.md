@@ -2204,22 +2204,22 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 本章重点介绍了通过前端开发学校、课程、计划和训练营等一些讲师指导学习的选择。  
 
-以下表格包含一小部分由教师指导的课程（即计划，学校和训练营）。 使用该表可以大致了解可用的内容，课程的成本，持续时间和位置。 （请注意，信息可能会快速变化）  
+以下表格包含一小部分由教师指导的课程（计划、学校和训练营）。 使用该表可以大致了解可用的内容和课程的成本、持续时间和位置。 （请注意，信息可能会实时更新）  
 
 | 公司 | 方案 | 估计价格 | 现场支持 | 远程 | 周期 |
 | :--- | :--- | :---: | :--- | :--- | :--- |
-| Betamore |  [前端Web开发](http://betamore.com/academy/front-end-web-development/) | 3,000 | 巴尔的摩, MD | | 10周 |
+| Betamore |  [前端Web开发](http://betamore.com/academy/front-end-web-development/) | 3,000 | Baltimore, MD | | 10周 |
 | BLOC |  [成为前端开发者](https://www.bloc.io/frontend-development-bootcamp) | 4,999 | | 是 | 16周(每周25小时) 或 32周(每周10小时) |
 | General Assembly | [前端Web开发](https://generalassemb.ly/education/front-end-web-development) | 3,500 | 多个地点 | 8周，每周2天，每天3小时 |
 | Thinkful | [前端Web开发](http://www.thinkful.com/courses/learn-web-development-online) | 300/月 | | 是 | 3个月，每周15小时 |
-| 图灵软件设计学院 | [前端工程](https://www.turing.io/programs/front-end-engineering) | 20,000 | 丹佛, CO | | 7个月全职 |
+| 图灵软件设计学院 | [前端工程](https://www.turing.io/programs/front-end-engineering) | 20,000 | Denver, CO | | 7个月全职 |
 
 > 注：
 >
-> 1. 有关要评估的学校，课程，计划和训练营的完整列表，请查看[switchup.org](https://www.switchup.org/front-end-development)或[coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps)。
+> 1. 有关评估学校、课程、计划和训练营的完整列表，请查看[switchup.org](https://www.switchup.org/front-end-development)或[coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps)。
 >
 
-如果你负担不起定向教育（可能非常昂贵），使用回放屏幕录像，书籍和文章进行自我导向教育，也是自我驱动学习前端开发的可行方法。
+如果你负担不起（可能非常昂贵的）定向教育，使用回放屏幕录像、书籍和文章进行自学，也是自学前端开发的可行方法。
 
 ## 第5章 前端开发工具
 
@@ -3933,13 +3933,13 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 **一般的前端简报、新闻和播客：**
 
-+ [he Big Web Show](http://5by5.tv/bigwebshow)
++ [大型Web秀](http://5by5.tv/bigwebshow)
 
 + [开发贴士](https://umaar.com/dev-tips/)
 
 + [前端欢乐时光](http://frontendhappyhour.com/)
 
-+ [前端正面](http://frontendfront.com/)
++ [前端前端](http://frontendfront.com/)
 
 + [前端焦点](http://frontendfocus.co/)
 
@@ -3965,13 +3965,13 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 **HTML/CSS简报：**
 
-+ [可触达性周刊](http://a11yweekly.com/)
++ [无障碍周刊](http://a11yweekly.com/)
 
 + [CSS周刊](http://css-weekly.com/archives/)
 
 + [CSS布局新闻](http://csslayout.news/)
 
-**JavaScript简报，新闻和播客：**
+**JavaScript简报、新闻和播客：**
 
 + [超赞的JavaScript简报](https://js.libhunt.com/newsletter?f=es-top-d)
 
@@ -3979,7 +3979,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 + [ECMAScript日志](https://ecmascript-daily.github.io/)
 
-+ [ES下一则新闻](http://esnextnews.com/)
++ [ES最新消息](http://esnextnews.com/)
 
 + [闲聊JavaScript](https://devchat.tv/js-jabber/)
 
@@ -4003,8 +4003,10 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
   
 > 注：
 >
-> 1.需要更多简报，新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
+> 1.需要更多简报、新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
 >
 > 2.通过搜索[https://www.meetup.com/](https://www.meetup.com/)查找本地前端开发社区  
 >
+
+
 
