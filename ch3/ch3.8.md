@@ -9,7 +9,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 
-就像要建造房屋，人们可能会认为HTML是结构和CSS是绘画和装饰。
+就像要建造房屋，人们可能会认为HTML是结构而CSS是绘画和装饰。
 
 **基础学习：**
 
@@ -31,7 +31,7 @@
 
 * [互相干扰很难](https://internetingishard.com/) \[阅读\]
 
-* [HTML/CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
+* [HTML和CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
 
 * [学习编码HTML和CSS](http://learn.shayhowe.com/html-css/) \[阅读\]
 
@@ -61,7 +61,7 @@
 
 * [从CSS4到CSS1的CSS选择器](http://css4-selectors.com/selectors/) \[阅读\]
 
-* [CSS秘诀：日常网页设计问题的更好解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [CSS秘诀：日常网页设计问题更好的解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
 
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) \[阅读\]
 
@@ -69,11 +69,11 @@
 
 * [什么是Flexbox？！ 一个简单，免费的20集视频课程，帮助你掌握CSS Flexbox](http://flexbox.io/) \[观看\]
 
-* [CSS30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
+* [CSS 30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
 
 **参考文献和文档：**
 
-* [CSS触发器...布局，绘画和复合的游戏](http://csstriggers.com/)
+* [CSS触发器...布局、绘画和合成的游戏](http://csstriggers.com/)
 
 * [cssreference.io](http://cssreference.io/)
 

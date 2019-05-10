@@ -19,7 +19,7 @@
 
 * [MDN: HTTP概述](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) \[观看\]
 
-* [HTTP: 权威指南（权威指南）](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
+* [HTTP: 权威指南](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [HTTP/2常见问题](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) \[观看\]
 
@@ -61,7 +61,7 @@
 
 * [使用WebSocket连接Web](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[观看\]
 
-* [WebSocket：轻量级客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
+* [WebSocket：轻量级的客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [WebSocket协议](https://tools.ietf.org/html/rfc6455) \[观看\]
 

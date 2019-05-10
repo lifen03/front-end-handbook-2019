@@ -721,9 +721,9 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ## 第3章 学习前端开发：自学资源和建议
 
-本章重点介绍了个人可以用来指导自己的学习过程和作为前端开发者的职业的许多资源（视频培训，书籍等）。
+本章重点介绍了个人可以用来指导自己的学习过程和成为职业的前端开发者的许多资源（视频培训，书籍等）。
 
-所有的学习资源（文章，书籍，视频，截屏视频等）将包括免费和付费资料之分。 付费材料将以\[付费\]表示。
+所有的学习资源（文章，书籍，视频，截屏视频等）将包括免费和付费资料之分。 付费材料将以[付费]表示。
 
 ### 3.1 学习互联网Web
 
@@ -777,7 +777,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 *图片来源: [http://gs.statcounter.com/browser-market-share](http://gs.statcounter.com/browser-market-share)*
 
-**浏览器和Web技术（即API）的演变**
+**浏览器和Web技术（API）的演变**
 
 * [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) \[阅读\]
 
@@ -799,7 +799,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [聚焦Quantum：什么是浏览器引擎？](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
 
-* [那么浏览器如何渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
+* [浏览器渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
 
 * [是什么导致重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) \[阅读\]
 
@@ -821,7 +821,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **浏览器开发**
 
-前端开发者过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天更严重。 现在，抽象（例如，React，Webpack，Post-CSS，Babel等......）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
+前端开发者过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天严重多了。 现在，抽象工具（例如，React，Webpack，Post-CSS，Babel等）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
 
 **安全浏览器**
 
@@ -831,7 +831,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 截至今天，大多数前端开发者使用Chrome和“Chrome Dev Tools”来开发前端代码。 但是，最常用的现代浏览器都提供了一种开发者工具。 选择哪一个作为开发工具是主观的。 更重要的问题是知道有哪些浏览器，你必须支持哪些设备，然后进行适当的测试。
 
-### 3.3 学习域名系统（又名DNS）
+### 3.3 学习域名系统（DNS）
 
 > *域名系统（DNS）是用于计算机、服务、连接到Internet或专用网络的任何资源的分层分布式命名系统。 它将各种信息与分配给每个参与实体的域名相关联。 最重要的是，它将人们可以轻易记忆的域名转换为全球计算机服务和设备所需的数字IP地址。 域名系统是大多数互联网服务功能的重要组成部分，因为它是互联网的主要目录服务。*
 >
@@ -841,7 +841,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 *图像来源: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)*
 
-* [DNS术语，组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
+* [DNS术语、组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
 
 * [DNS解析](https://www.youtube.com/watch?v=72snZctFFtA) \[观看\]
 
@@ -872,7 +872,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [MDN: HTTP概述](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) \[观看\]
 
-* [HTTP: 权威指南（权威指南）](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
+* [HTTP: 权威指南](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [HTTP/2常见问题](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) \[观看\]
 
@@ -914,7 +914,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [使用WebSocket连接Web](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[观看\]
 
-* [WebSocket：轻量级客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
+* [WebSocket：轻量级的客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [WebSocket协议](https://tools.ietf.org/html/rfc6455) \[观看\]
 
@@ -934,7 +934,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.6 学习前端开发基础
 
-* [网上每天的前端训练营](https://github.com/Microsoft/frontend-bootcamp) \[阅读\]
+* [每天的网上前端训练营](https://github.com/Microsoft/frontend-bootcamp) \[阅读\]
 
 * [准备成为职业的Web开发](https://frontendmasters.com/learn/beginner/)
 
@@ -960,7 +960,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [学习Web前端开发](https://teamtreehouse.com/tracks/front-end-web-development) \[观看\]\[付费\]
 
-* [那么，你想成为一名前端工程师吗](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[观看\]
+* [你想成为一名前端工程师吗](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[观看\]
 
 * [codecademy.com: 学习Web开发路线](https://www.codecademy.com/learn/paths/web-development) \[互动\]\[免费\]
 
@@ -978,7 +978,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 > *— [维基百科](https://en.wikipedia.org/wiki/Design_pattern) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1)*
 >
 
-> ***用户体验设计** — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，可触达性和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
+> ***用户体验设计** — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，无障碍和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/User_experience_design) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97)*
 > 
@@ -1012,7 +1012,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 
-就像要建造房屋，人们可能会认为HTML是结构和CSS是绘画和装饰。
+就像要建造房屋，人们可能会认为HTML是结构而CSS是绘画和装饰。
 
 **基础学习：**
 
@@ -1034,7 +1034,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [互相干扰很难](https://internetingishard.com/) \[阅读\]
 
-* [HTML/CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
+* [HTML和CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
 
 * [学习编码HTML和CSS](http://learn.shayhowe.com/html-css/) \[阅读\]
 
@@ -1064,7 +1064,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [从CSS4到CSS1的CSS选择器](http://css4-selectors.com/selectors/) \[阅读\]
 
-* [CSS秘诀：日常网页设计问题的更好解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [CSS秘诀：日常网页设计问题更好的解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
 
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) \[阅读\]
 
@@ -1072,11 +1072,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [什么是Flexbox？！ 一个简单，免费的20集视频课程，帮助你掌握CSS Flexbox](http://flexbox.io/) \[观看\]
 
-* [CSS30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
+* [CSS 30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
 
 **参考文献和文档：**
 
-* [CSS触发器...布局，绘画和复合的游戏](http://csstriggers.com/)
+* [CSS触发器...布局、绘画和合成的游戏](http://csstriggers.com/)
 
 * [cssreference.io](http://cssreference.io/)
 
@@ -1110,11 +1110,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [CSS索引 - CSS规范定义的每个术语的列表](https://drafts.csswg.org/indexes/)
 
-* [Living标准中的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [来自持续更新标准的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 
 * [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
-* Living标准中的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* 来自持续更新标准的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
 
 * [W3C的HTML 5.2](http://w3c.github.io/html/)
 
@@ -1196,9 +1196,9 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [说说JavaScript](http://speakingjs.com/es5/index.html) \[阅读\]
 
-* [不耐烦程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
+* [没耐心程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
 
-* [你不知道JS：Up＆Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
+* [你不知道JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
 
 * [你不懂JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
 
@@ -1220,11 +1220,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [ES6探索](http://exploringjs.com/es6.html) \[阅读\]
 
-* [你不知道的JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
+* [你不知道的JS: ES6 和 Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
 
 * [了解ECMAScript 6：JavaScript开发者权威指南](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-* [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
+* [JavaScript: 最新部分](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
 
 * [探索ES2016和ES2017](http://exploringjs.com/es2016-es2017/index.html) \[阅读\]
 
@@ -1234,19 +1234,19 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [使用正则表达式](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) \[观看\]\[付费\]
 
-* [你不知道的JS: Async & 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
+* [你不知道的JS: Async 和 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
 
 * [JavaScript中的Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) \[阅读\]\[付费\]
 
 * [测试驱动的JavaScript开发](http://www.amazon.com/dp/0321683919/) \[阅读\]\[付费\]
 
-* [JS MythBusters](https://mythbusters.js.org/index.html) \[阅读\]
+* [JS传闻](https://mythbusters.js.org/index.html) \[阅读\]
 
 * [强大的JavaScript](https://molily.de/robust-javascript/) \[阅读\]
 
 * [JavaScript算法和数据结构](https://github.com/trekhleb/javascript-algorithms#readme) \[阅读\]
 
-* [每个JavaScript开发者应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
+* [每个JavaScript开发者都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
 
 * [doesitmutate.xyz](https://doesitmutate.xyz/) \[阅读\]
 
@@ -1282,7 +1282,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [JavaScript词汇表](https://www.codecademy.com/articles/glossary-javascript)
 
-* [简化的JavaScript专业术语](http://jargon.js.org/)
+* [JavaScript简化的专业术语](http://jargon.js.org/)
 
 **标准/规范：**
 
@@ -1310,17 +1310,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **不推荐使用的JS学习资源：**
 
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
+* [Crockford on JavaScript - 第一卷: 早年](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
 
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
+* [Crockford on JavaScript - 第二章: 然后是JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
 
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
+* [Crockford on JavaScript - 第三幕:终极功能](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
 
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
+* [Crockford on JavaScript - 第四集:Ajax的蜕变](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
 
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
+* [Crockford on JavaScript - 第五部分:万物终结](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
 
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
+* [Crockford on JavaScript - 场景6:Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
 
 * [JavaScript模式](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) \[阅读\]\[付费\]
 
@@ -1336,11 +1336,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **JS搜索可视化:**
 
-* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+* [JavaScript Array探索](https://sdras.github.io/array-explorer/)
 
-* [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
+* [JavaScript Object探索](https://sdras.github.io/object-explorer/)
 
-* [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
+* [JavaScript可视化](https://tylermcginnis.com/javascript-visualizer/)
 
 ### 3.11 学习DOM、BOM、CSSOM和jQuery
 
@@ -1358,7 +1358,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/JQuery) & [中文地址](https://zh.wikipedia.org/wiki/JQuery)*
 
-理想的路径，肯定是最困难的，首先是学习JavaScript，然后是DOM，然后是jQuery。 但是，做一些对你的大脑有意义的事情。 大多数前端开发者通过首先学习jQuery来学习JavaScript然后学习DOM。 无论你采取什么样的路径，只要确保JavaScript，DOM和jQuery不会变成黑盒子。
+理想的学习路线，肯定是最困难的，首先学习JavaScript，然后是DOM，然后是jQuery。 但是，要做一些对你的大脑有意义的事情。 大多数前端开发者通过首先学习jQuery来学习JavaScript然后学习DOM。 无论你采取什么样的学习路线，都要确保JavaScript，DOM和jQuery不会变成黑盒子。
 
 **基础学习：**
 
@@ -1380,7 +1380,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [Douglas Crockford: 一个不方便的API - DOM的理论](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) \[观看\]
 
-* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[阅读\]\[付费\] or [在线免费阅读](http://domenlightenment.com/)
+* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[阅读\]\[付费\] 或者 [在线免费阅读](http://domenlightenment.com/)
 
 * [修复常见的jQuery错误](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) \[观看\]\[付费\]
 
@@ -1418,7 +1418,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [文档对象模型（DOM）技术报告](http://www.w3.org/DOM/DOMTR)
 
-* [DOM Living标准](https://dom.spec.whatwg.org/)
+* [DOM持续更新标准](https://dom.spec.whatwg.org/)
 
 * [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
@@ -1428,7 +1428,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [SVG要素和动画, v2](https://frontendmasters.com/courses/svg-essentials-animation/) \[付费\]\[观看\]
 
-* [网络动画中的风险s](https://www.codeschool.com/courses/adventures-in-web-animations) \[付费\]\[观看\]
+* [动画在网络中的风险](https://www.codeschool.com/courses/adventures-in-web-animations) \[付费\]\[观看\]
 
 * [动画与Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) \[付费\]\[观看\]
 
@@ -1444,9 +1444,9 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [使用CSS进行运动设计](https://frontendmasters.com/courses/motion-design-css/) \[付费\]\[观看\]
 
-* [2015动画状态](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) \[观看\]
+* [动画状态2015](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) \[观看\]
 
-* [使用JavaScript开发Web动画：开发和设计（开发和设计）](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[付费\]\[阅读\]
+* [使用JavaScript开发Web动画：开发和设计](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[付费\]\[阅读\]
 
 
 **标准和规范：**
@@ -1464,7 +1464,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **字体:**
 
-* [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
+* [字体加载策略的全面指南](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
 
 * [漂亮的Web Type是来自谷歌Web字体字典的最佳字体展示](http://hellohappy.org/beautiful-web-type/) \[阅读\]
 
@@ -1488,51 +1488,50 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [WEB里的SVG — 实用指南](https://svgontheweb.com/) \[阅读\]
 
-### 3.14 学习辅助功能
+### 3.14 学习无障碍
 
-> *可触达性是指为残疾人设计产品、设备、服务或环境。可触达性设计的概念确保了两者的“直接访问”(即，无辅助)和“间接访问”的意思是与某人的辅助技术(例如，计算机屏幕阅读器)的兼容性。*
+> *无障碍是指为残疾人设计产品、设备、服务或环境。无障碍设计的概念确保了两者的“直接访问”(即，无辅助)和“间接访问”的意思是与某人的辅助技术(例如，计算机屏幕阅读器)的兼容性。*
 > 
 
-> *可触达性可以看作是“访问的能力”，并从某些系统或实体中获益。该概念的重点是使残疾人或特殊需要的人能够获得服务，或通过使用辅助技术使他们能够获得服务;然而，可触达性方面的研究和开发给每个人都带来了好处。*
+> *无障碍可以看作是“访问的能力”，并从某些系统或实体中获益。该概念的重点是使残疾人或特殊需要的人能够获得服务，或通过使用辅助技术使他们能够获得服务;然而，无障碍方面的研究和开发给每个人都带来了好处。*
 > 
 
-> *可触达性不要与可用性混淆，可用性是指特定用户可以在特定的使用上下文中使用产品(如设备、服务或环境)来实现特定目标的有效性、效率和满意度。*
+> *无障碍不要与可用性混淆，可用性是指特定用户可以在特定的使用上下文中使用产品(如设备、服务或环境)来实现特定目标的有效性、效率和满意度。*
 > 
 
-> *可触达性与通用设计密切相关，通用设计是一个创造产品的过程，使具有尽可能广泛的能力的人能够使用这些产品，并在尽可能广泛的情况下进行操作。这是为了让所有人(无论他们是否有残疾)都能接触到这些东西。*
+> *无障碍与通用设计密切相关，通用设计是一个创造产品的过程，使具有尽可能广泛的能力的人能够使用这些产品，并在尽可能广泛的情况下进行操作。这是为了让所有人(无论他们是否有残疾)都能接触到这些东西。*
 > 
 > *— [维基百科](https://en.wikipedia.org/wiki/Accessibility) & [中文地址](https://zh.wikipedia.org/wiki/%E7%84%A1%E9%9A%9C%E7%A4%99%E7%92%B0%E5%A2%83)*
 
 **基础学习:**
 
-* [获得最低限度的网页可触达性访问的9个技巧](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
+* [获得最低限度的网页无障碍访问的9个技巧](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 
-* [UX基础: 可触达性](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) \[观看\]\[付费\]
+* [UX基础: 无障碍](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) \[观看\]\[付费\]
 
 * [屏幕阅读器如何支持HTML元素](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) \[阅读\]
 
-* [网页可触达性介绍](https://www.w3.org/WAI/intro/accessibility.php) \- WAI \[阅读\]
+* [网页无障碍介绍](https://www.w3.org/WAI/intro/accessibility.php) \- WAI \[阅读\]
 
-* [面向Web应用程序的通用设计: 面向所有人的Web应用程序]
-(http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[阅读\]\[付费\]
+* [面向Web应用程序的通用设计: 面向所有人的Web应用程序](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[阅读\]\[付费\]
 
-* [Web可触达性: 快速开始](http://www.pluralsight.com/courses/web-accessibility-getting-started) \[观看\]\[付费\]
+* [Web无障碍: 快速开始](http://www.pluralsight.com/courses/web-accessibility-getting-started) \[观看\]\[付费\]
 
 * [一个考虑到所有人的网页](http://rosenfeldmedia.com/books/a-web-for-everyone/) \[阅读\]\[付费\]
 
-* [Web可触达性访问](https://frontendmasters.com/courses/web-accessibility/) \[观看\]\[付费\]
+* [Web无障碍访问](https://frontendmasters.com/courses/web-accessibility/) \[观看\]\[付费\]
 
 * [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) \[观看\]
 
-* [谷歌的可触达性访问](https://www.udacity.com/course/web-accessibility--ud891) \- Udacity course \[观看\]
+* [谷歌的无障碍访问](https://www.udacity.com/course/web-accessibility--ud891) \- Udacity course \[观看\]
 
 **标准和规范:**
 
-* [可触达性的富Internet应用程序(WAI-ARIA)当前状态](http://www.w3.org/standards/techs/aria#w3c_all)
+* [无障碍的富Internet应用程序(WAI-ARIA)当前状态](http://www.w3.org/standards/techs/aria#w3c_all)
 
-* [可触达性网页计划(WAI)](http://www.w3.org/WAI/)
+* [无障碍网页计划(WAI)](http://www.w3.org/WAI/)
 
-* [Web内容可触达性指南(WCAG)的当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [Web内容无障碍指南(WCAG)的当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
 
 ### 3.15 学习Web浏览器API
 

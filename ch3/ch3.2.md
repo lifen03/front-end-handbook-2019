@@ -18,7 +18,7 @@
 
 *图片来源: [http://gs.statcounter.com/browser-market-share](http://gs.statcounter.com/browser-market-share)*
 
-**浏览器和Web技术（即API）的演变**
+**浏览器和Web技术（API）的演变**
 
 * [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) \[阅读\]
 
@@ -40,7 +40,7 @@
 
 * [聚焦Quantum：什么是浏览器引擎？](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
 
-* [那么浏览器如何渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
+* [浏览器渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
 
 * [是什么导致重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) \[阅读\]
 
@@ -62,7 +62,7 @@
 
 **浏览器开发**
 
-前端开发者过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天更严重。 现在，抽象（例如，React，Webpack，Post-CSS，Babel等......）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
+前端开发者过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天严重多了。 现在，抽象工具（例如，React，Webpack，Post-CSS，Babel等）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
 
 **安全浏览器**
 

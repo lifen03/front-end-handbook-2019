@@ -18,9 +18,9 @@
 
 * [说说JavaScript](http://speakingjs.com/es5/index.html) \[阅读\]
 
-* [不耐烦程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
+* [没耐心程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
 
-* [你不知道JS：Up＆Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
+* [你不知道JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
 
 * [你不懂JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
 
@@ -42,11 +42,11 @@
 
 * [ES6探索](http://exploringjs.com/es6.html) \[阅读\]
 
-* [你不知道的JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
+* [你不知道的JS: ES6 和 Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
 
 * [了解ECMAScript 6：JavaScript开发者权威指南](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-* [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
+* [JavaScript: 最新部分](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
 
 * [探索ES2016和ES2017](http://exploringjs.com/es2016-es2017/index.html) \[阅读\]
 
@@ -56,19 +56,19 @@
 
 * [使用正则表达式](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) \[观看\]\[付费\]
 
-* [你不知道的JS: Async & 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
+* [你不知道的JS: Async 和 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
 
 * [JavaScript中的Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) \[阅读\]\[付费\]
 
 * [测试驱动的JavaScript开发](http://www.amazon.com/dp/0321683919/) \[阅读\]\[付费\]
 
-* [JS MythBusters](https://mythbusters.js.org/index.html) \[阅读\]
+* [JS传闻](https://mythbusters.js.org/index.html) \[阅读\]
 
 * [强大的JavaScript](https://molily.de/robust-javascript/) \[阅读\]
 
 * [JavaScript算法和数据结构](https://github.com/trekhleb/javascript-algorithms#readme) \[阅读\]
 
-* [每个JavaScript开发者应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
+* [每个JavaScript开发者都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
 
 * [doesitmutate.xyz](https://doesitmutate.xyz/) \[阅读\]
 
@@ -104,7 +104,7 @@
 
 * [JavaScript词汇表](https://www.codecademy.com/articles/glossary-javascript)
 
-* [简化的JavaScript专业术语](http://jargon.js.org/)
+* [JavaScript简化的专业术语](http://jargon.js.org/)
 
 **标准/规范：**
 
@@ -132,17 +132,17 @@
 
 **不推荐使用的JS学习资源：**
 
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
+* [Crockford on JavaScript - 第一卷: 早年](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
 
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
+* [Crockford on JavaScript - 第二章: 然后是JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
 
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
+* [Crockford on JavaScript - 第三幕:终极功能](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
 
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
+* [Crockford on JavaScript - 第四集:Ajax的蜕变](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
 
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
+* [Crockford on JavaScript - 第五部分:万物终结](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
 
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
+* [Crockford on JavaScript - 场景6:Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
 
 * [JavaScript模式](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) \[阅读\]\[付费\]
 
@@ -158,9 +158,9 @@
 
 **JS搜索可视化:**
 
-* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+* [JavaScript Array探索](https://sdras.github.io/array-explorer/)
 
-* [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
+* [JavaScript Object探索](https://sdras.github.io/object-explorer/)
 
-* [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
+* [JavaScript可视化](https://tylermcginnis.com/javascript-visualizer/)
 

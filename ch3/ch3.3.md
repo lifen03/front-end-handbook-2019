@@ -1,4 +1,4 @@
-### 3.3 学习域名系统（又名DNS）
+### 3.3 学习域名系统（DNS）
 
 > *域名系统（DNS）是用于计算机、服务、连接到Internet或专用网络的任何资源的分层分布式命名系统。 它将各种信息与分配给每个参与实体的域名相关联。 最重要的是，它将人们可以轻易记忆的域名转换为全球计算机服务和设备所需的数字IP地址。 域名系统是大多数互联网服务功能的重要组成部分，因为它是互联网的主要目录服务。*
 >
@@ -8,7 +8,7 @@
 
 *图像来源: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)*
 
-* [DNS术语，组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
+* [DNS术语、组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
 
 * [DNS解析](https://www.youtube.com/watch?v=72snZctFFtA) \[观看\]
 

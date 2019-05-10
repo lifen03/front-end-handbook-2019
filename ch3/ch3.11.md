@@ -14,7 +14,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/JQuery) & [中文地址](https://zh.wikipedia.org/wiki/JQuery)*
 
-理想的路径，肯定是最困难的，首先是学习JavaScript，然后是DOM，然后是jQuery。 但是，做一些对你的大脑有意义的事情。 大多数前端开发者通过首先学习jQuery来学习JavaScript然后学习DOM。 无论你采取什么样的路径，只要确保JavaScript，DOM和jQuery不会变成黑盒子。
+理想的学习路线，肯定是最困难的，首先学习JavaScript，然后是DOM，然后是jQuery。 但是，要做一些对你的大脑有意义的事情。 大多数前端开发者通过首先学习jQuery来学习JavaScript然后学习DOM。 无论你采取什么样的学习路线，都要确保JavaScript，DOM和jQuery不会变成黑盒子。
 
 **基础学习：**
 
@@ -36,7 +36,7 @@
 
 * [Douglas Crockford: 一个不方便的API - DOM的理论](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) \[观看\]
 
-* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[阅读\]\[付费\] or [在线免费阅读](http://domenlightenment.com/)
+* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[阅读\]\[付费\] 或者 [在线免费阅读](http://domenlightenment.com/)
 
 * [修复常见的jQuery错误](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) \[观看\]\[付费\]
 
