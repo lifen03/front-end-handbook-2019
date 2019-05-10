@@ -107,11 +107,11 @@
 
 * [CSS索引 - CSS规范定义的每个术语的列表](https://drafts.csswg.org/indexes/)
 
-* [Living标准中的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [来自持续更新标准的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 
 * [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
-* Living标准中的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* 来自持续更新标准的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
 
 * [W3C的HTML 5.2](http://w3c.github.io/html/)
 

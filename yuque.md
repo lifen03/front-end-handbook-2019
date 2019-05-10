@@ -264,21 +264,21 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 2.2 前端职称
 
-[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
+[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
 
-以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼的职位，通常是指拥有HTML，CSS，DOM和JavaScript有一定程度专业知识的人。
+以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼职位的人，通常是指在HTML，CSS，DOM和JavaScript上有一定程度专业知识的人。
 
 **前端开发者**：描述在一定程度上精通HTML、CSS、DOM和JavaScript并在Web平台上实现这些技术的开发者的通用职称。
 
-**前端工程师（JavaScript开发者或全栈JavaScript开发者）**：这个职称授予给来自计算机科学、工程学背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当职称中包含“JavaScript应用程序”时，表明需要开发者必须是具有高级编程、软件开发和应用程序开发技能的高级JavaScript开发者（即，也拥有多年构建前端软件应用的经验）。
+**前端工程师（JavaScript开发者或全栈JavaScript开发者）**：这个职称授予给来自计算机科学、工程学背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当职称中包含“JavaScript应用程序”时，表明需要开发者必须是具有高级编程、软件开发和应用程序开发技能的高级JavaScript开发者，同时也拥有多年构建前端软件应用的经验。
 
 **CSS和HTML开发者**：这个前端职称描述的是除了JavaScript和应用程序之外，开发者对HTML和CSS具有一定熟练度。
 
-**Web前端设计师**：包含“设计师”的职称，表明设计师需要具备前端技能（即，HTML 和 CSS）以及专业的设计(视觉设计和交互设计)技能。
+**Web前端设计师**：包含“设计师”的职称，表明设计师需要具备前端技能（HTML 和 CSS）以及专业的设计(视觉设计和交互设计)技能。
 
 **UI（用户界面）**开发者或工程师：当头衔中包含“交互”和“UI”时，表明开发者除了应具备交互设计能力，还需具备前端开发者技能和前端工程师技能。
 
-**移动或平板电脑前端开发者**：包含“移动”和“平板”的职称，有在移动或平板电脑设备运行的前端开发经验（要么是原生的，要么是在Web平台上，即，在浏览器上）。
+**移动或平板电脑前端开发者**：包含“移动”和“平板”的职称，有在移动或平板电脑设备运行的前端开发经验（要么是原生的，要么是在Web平台上，比如在浏览器上）。
 
 **前端SEO专家**：包含“SEO”的职称，描述的是开发者具备以SEO策略来设计前端技术的丰富经验。
 
@@ -292,10 +292,10 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > 1、如果你在职称中遇到“全栈”或“网页开发者”这些术语，被雇主用于描述负责Web或应用程序开发各个方面的角色。比如，前端（可能包括设计）和后端。
 
-### 2.3 前端开发者必备的Web技术
+### 2.3 前端开发者必备的Web技能
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-tech-employed.jpg)
 
-下面是被前端开发者所使用的核心Web技术（可以考虑按顺序学习它们）：
+下面是被前端开发者所使用的核心Web技能（可以考虑按顺序学习它们）：
 
 1. 超文本链接（HTML）
 
@@ -329,7 +329,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - [W3C HTML规范大全](http://www.w3.org/standards/techs/html#w3c_all)
 
-- [HTML元素]标准(https://html.spec.whatwg.org/multipage)
+- [HTML元素]持续更新标准(https://html.spec.whatwg.org/multipage)
 
 - [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
@@ -340,7 +340,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 - [HTML属性参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 - [HTML元素参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-- [HTML语法]标准(https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+- [HTML语法]持续更新标准(https://html.spec.whatwg.org/multipage/syntax.html#syntax)
 
 **层叠样式表（CSS）**
 
@@ -378,7 +378,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - [统一资源定位器（URL）](http://www.w3.org/Addressing/URL/url-spec.txt)
 
-- [URL标准](https://url.spec.whatwg.org/)
+- [URL持续更新标准](https://url.spec.whatwg.org/)
 
 **文档对象模型（DOM）**
 
@@ -388,7 +388,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 大部分相关规范和文档：
 
-- [DOM标准](https://dom.spec.whatwg.org/)
+- [DOM持续更新标准](https://dom.spec.whatwg.org/)
 
 - [W3C DOM4](https://www.w3.org/TR/domcore/)
 
@@ -444,7 +444,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/front-end-skills.png)
 *图片来源：[http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html)*
 
-对于任何一种专业类型的前端开发者角色，都假设具备对HTML、CSS、DOM、JavaScript、HTTP、URL和Web浏览器的基本高级理解。
+对于任何一种专业类型的前端开发者角色，假设已经具备对HTML、CSS、DOM、JavaScript、HTTP、URL和Web浏览器这些基本技能的高级理解。
 
 除了上述的技能，前端开发者可能还需要特别擅长以下一项或多项技能:
 
@@ -548,7 +548,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - 浏览器开发者工具
 
-### 2.5 前端开发者对...开发
+### 2.5 前端开发者跨设备开发
 
 前端开发者使用HTML、CSS和JS，通常运行在以下操作系统(简称OS)的[web平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(例如Web浏览器)上：
 
@@ -596,17 +596,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 2.6 团队的前端
 
-前端开发者通常只是团队中设计和开发web站点、web应用程序或基于web技术运行的原生应用程序的一员。
+前端开发者通常只是团队中设计和开发Web站点、web应用程序或基于web技术运行的原生应用程序的一员。
 
 一个为Web平台构建**专业**Web站点或软件的开发团队，通常至少包含以下角色。
 
-- 视觉设计师（即，字体、色彩、间距、表情、视觉概念与主题）
+- 视觉设计师（字体、色彩、间距、表情、视觉概念与主题）
 
-- UI设计师、交互设计师、信息体系结构师（即，线框，指定所有用户的交互和UI功能，结构化信息）
+- UI设计师、交互设计师、信息体系结构师（线框，指定所有用户的交互和UI功能，结构化信息）
 
-- 前端开发者（即，编写可以运行在客户端或设备上的代码）
+- 前端开发者（编写可以运行在客户端或设备上的代码）
 
-- 后端开发者（即，编写运行在服务器的代码）
+- 后端开发者（编写运行在服务器的代码）
 
 这些角色是依据重叠的技能排序的。前端开发者通常比后端后端开发更擅长于处理UI或交互设计以及后端开发。团队成员通过承担重叠角色的职责来担任多个角色的情况并不少见。
 
@@ -626,11 +626,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - QA工程师或测试员
 
-### 2.7 全栈（全能）开发者
+### 2.7 全栈开发者
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/full-stack.jpg)
 
-全栈开发者这个称谓有几种含义。如此之多，以至于这个称谓尚未有一个明确的定义。仅考虑下面所展示的两个调查结果。这些结果可能更可信，成为一名全栈开发者是很常见的。但是，在我近20年的经验中，这绝不是专业领域的情况。
+全栈开发者这个称谓有几种含义。如此之多，以至于这个称谓尚未有一个明确的定义。仅考虑下面所展示的两个调查结果。这些结果可能更可信，成为一名全栈开发者是很常见的。但是，在我近20年的经验中，这绝不是专业领域的普遍情况。
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack1.png)
 
@@ -640,9 +640,9 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 *图片来源: [https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types](https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types)*
 
-设计和开发一个网站或web应用程序的角色需要在视觉设计、UI/交互设计、[前端开发](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap)和[后端开发](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap)领域拥有深厚的技能和丰富的经验。任何能在专业水平上胜任以上这4个角色中的一个或多个的人都是极其罕见的。
+设计和开发一个网站或web应用程序的角色需要在视觉设计、UI和交互设计、[前端开发](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap)和[后端开发](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap)等领域拥有深厚的技能和丰富的经验。任何能在专业水平上胜任以上这4个角色中的一个或多个的人都是极其罕见的。
 
-从实用的角度来看，你应该寻求成为这些角色(即，视觉设计、交互设计或IA、前端开发、后端开发)之一的专家，或者寻求聘请这样的专家。那些声称在一个或多个这样的角色上具有专家水平的人是非常稀有的。
+从实用的角度来看，你应该寻求成为这些角色(视觉设计、交互设计或IA、前端开发、后端开发)之一的专家，或者寻求聘请这样的专家。那些声称在一个或多个这样的角色上具有专家水平的人是非常稀有的。
 
 然而，考虑到JavaScript已经涵盖了技术栈的所有层面(即Node.js)，寻找一个既能开发前端和后端的全栈JS开发者已经不是那么神秘了。通常，这些全栈开发者只能解决JavaScript。一个能为前端、后端、API和数据库代码的开发者不再像以前那样荒谬(不包括视觉设计、交互设计和CSS)。在我看来依旧很神秘，但不再像以前那样不寻常。因此，我不建议开发者成为一名"全栈"开发者。在少数情况下，这行得通。但一般来说，作为一个塑造职业生涯的一般概念上前端开发者，我会专注于前端技术。
 
@@ -675,13 +675,13 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - [前端开发者面试题](http://thatjsdude.com/interview/index.html)
 
-- [前端JavaScript最佳面试题（由一位前端工程师所编著）](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
+- [（由一位前端工程师所编著的）前端JavaScript最佳面试题](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
 
-**你的疑问:**
+**你的提问:**
 
-- [一份开发者可向未来老板提问的开源列表](https://github.com/ChiperSoft/InterviewThis)
+- [一份开发者可向未来老板提问的开放列表](https://github.com/ChiperSoft/InterviewThis)
 
-### 2.9 前端求职公告栏
+### 2.9 前端求职公告
 
 存在大量的技术职位招聘渠道。以下精简的列表是当前用于寻求前端职位/职业最相关资源。
 
@@ -707,17 +707,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 > 注：
 >
-> 1、想作为一个前端开发者进行远程工作，留意这些相关的远程办公公司。
+> 1、想作为一个前端开发者进行远程工作，留意这些相关的[远程办公公司](https://github.com/jessicard/remote-jobs)。
 
 ### 2.10 前端薪酬
 
-美国全国的平均水平，一个中级前端开发者的薪酬在6.5万美金到10万美金之间。
+美国全国的平均水平，一个中级前端开发者的薪酬在6.5万美元到10万美元之间。
 
-当然，对于刚刚进入前端领域的新人来说，大概是40K，这取决于你工作的地点和经验。
+当然，对于刚刚进入前端领域的新人来说，大概是40K美元，这取决于你工作的地点和经验。
 
 > 注：
 >
-> 1、一个领导级别或者高级的前端开发者或工程师可以住他想住的任何地方（也就是远程办公）而且年薪超过15万（访问[angel.co](https://angel.co/jobs)、注册、留意超过15万美元年薪的前端职位或在[Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)测试你的薪水范围）
+> 1、一个领导级别或者高级的前端开发者或工程师可以住他想住的任何地方（也就是远程办公）而且年薪超过15万美元（访问[angel.co](https://angel.co/jobs)、注册、留意超过15万美元年薪的前端职位或在[Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)测试你的薪水范围）
 
 ## 第3章 学习前端开发：自学资源和建议
 

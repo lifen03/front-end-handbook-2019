@@ -1,7 +1,7 @@
-### 2.3 前端开发者必备的Web技术
+### 2.3 前端开发者必备的Web技能
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-tech-employed.jpg)
 
-下面是被前端开发者所使用的核心Web技术（可以考虑按顺序学习它们）：
+下面是被前端开发者所使用的核心Web技能（可以考虑按顺序学习它们）：
 
 1. 超文本链接（HTML）
 
@@ -35,7 +35,7 @@
 
 - [W3C HTML规范大全](http://www.w3.org/standards/techs/html#w3c_all)
 
-- [HTML元素]标准(https://html.spec.whatwg.org/multipage)
+- [HTML元素]持续更新标准(https://html.spec.whatwg.org/multipage)
 
 - [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
@@ -46,7 +46,7 @@
 - [HTML属性参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 - [HTML元素参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-- [HTML语法]标准(https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+- [HTML语法]持续更新标准(https://html.spec.whatwg.org/multipage/syntax.html#syntax)
 
 **层叠样式表（CSS）**
 
@@ -84,7 +84,7 @@
 
 - [统一资源定位器（URL）](http://www.w3.org/Addressing/URL/url-spec.txt)
 
-- [URL标准](https://url.spec.whatwg.org/)
+- [URL持续更新标准](https://url.spec.whatwg.org/)
 
 **文档对象模型（DOM）**
 
@@ -94,7 +94,7 @@
 
 大部分相关规范和文档：
 
-- [DOM标准](https://dom.spec.whatwg.org/)
+- [DOM持续更新标准](https://dom.spec.whatwg.org/)
 
 - [W3C DOM4](https://www.w3.org/TR/domcore/)
 

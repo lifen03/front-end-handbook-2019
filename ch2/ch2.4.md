@@ -2,7 +2,7 @@
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/front-end-skills.png)
 *图片来源：[http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html)*
 
-对于任何一种专业类型的前端开发者角色，都假设具备对HTML、CSS、DOM、JavaScript、HTTP、URL和Web浏览器的基本高级理解。
+对于任何一种专业类型的前端开发者角色，假设已经具备对HTML、CSS、DOM、JavaScript、HTTP、URL和Web浏览器这些基本技能的高级理解。
 
 除了上述的技能，前端开发者可能还需要特别擅长以下一项或多项技能:
 

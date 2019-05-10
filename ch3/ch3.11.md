@@ -74,7 +74,7 @@
 
 * [文档对象模型（DOM）技术报告](http://www.w3.org/DOM/DOMTR)
 
-* [DOM Living标准](https://dom.spec.whatwg.org/)
+* [DOM持续更新标准](https://dom.spec.whatwg.org/)
 
 * [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
