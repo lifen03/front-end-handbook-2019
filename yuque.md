@@ -24,7 +24,7 @@
 
 **在手册中有什么：**
 
-第0章介绍了今年前端开发的简要回顾和发展趋势。第1章和第2章简要介绍了前端开发的规则和实践。第3章和第4章组织并推荐了学习路径和资源。第5章组织和列出前端开发者使用的工具，第6章重点介绍前端信息的出处。
+第0章介绍了今年前端开发的简要回顾和发展趋势。第1章和第2章简要介绍了前端开发的规则和实践。第3章和第4章组织并推荐了学习路径和资源。第5章组织和列出前端开发者使用的工具，第6章重点介绍前端信息的来源。
 
 **欢迎在Github中贡献内容、提供建议和修正：**
 
@@ -38,7 +38,7 @@
 
 - [微软终于收购了Github](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)。
 
-- [用CSS创建字体](https://yusugomori.com/projects/css-sans/)。
+- [用CSS可以创建字体啦](https://yusugomori.com/projects/css-sans/)。
 
 - 过去我称之为前端驱动的应用程序，被称作[“无服务”](https://thepowerofserverless.info/)。不幸的是，这言过于实了。然而，[JAMstack](https://jamstack.org/)这个术语似乎确实引起了很多开发者的[共鸣](https://jamstackconf.com/nyc/)。
 
@@ -52,7 +52,7 @@
 
 - 2017年，[HTML和CSS前端开发者](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)与[应用程序前端开发者](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)之间产生了[巨大的](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)分歧。2018年，[分歧变得越来越大、越来越深](https://css-tricks.com/the-great-divide/)，且越来越多[人](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/)开始[感受到](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4)[这种](http://bradfrost.com/blog/post/big-ol-ball-o-javascript/)[分歧](https://justmarkup.com/log/2018/11/just-markup/)。
 
-- 今年，和最近几年一样，有成堆的应用和框架的解决方案尝试角逐成为主流的JavaScript应用程序工具（例如[React、Angular、Vue等](https://stateofjs.com/2017/front-end/results)）让我为你列举一下它们。[Radi.js](https://radi.js.org/), [DisplayJS](https://display.js.org/), [Stimulus](https://stimulusjs.org/), [Omi](https://github.com/Tencent/omi), [Quasar](https://quasar-framework.org/)。
+- 今年，和最近几年一样，有成堆的应用和框架的解决方案尝试角逐成为主流的JavaScript应用程序工具（例如[React、Angular、Vue等](https://stateofjs.com/2017/front-end/results)）让我为你列举一下，它们是[Radi.js](https://radi.js.org/), [DisplayJS](https://display.js.org/), [Stimulus](https://stimulusjs.org/), [Omi](https://github.com/Tencent/omi), [Quasar](https://quasar-framework.org/)。
 
 - JavaScript框架开始提供自己的语言使其编译成JavaScript（例如[Mint](https://www.mint-lang.com/)）。
 
