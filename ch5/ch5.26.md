@@ -8,9 +8,9 @@
 
 * [Placeimg](http://placeimg.com)
 
-* [Lorem Pixel](http://lorempixel.com)
+* [Lorem像素](http://lorempixel.com)
 
-* [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+* [CSS-Tricks图像资源](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
 
 * [LibreStock](http://librestock.com)
 

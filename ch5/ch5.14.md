@@ -1,4 +1,4 @@
-### 5.14 辅助功能工具
+### 5.14 无障碍工具
 
 **指南**
 
@@ -58,7 +58,7 @@
 
 * [Grammarly](https://www.grammarly.com)
 
-* [Readability Score](https://readability-score.com/text/)
+* [可读性评分](https://readability-score.com/text/)
 
 * [MS Office](https://support.office.com/en-us/article/Test-your-document-s-readability-0adc0e9a-b3fb-4bde-85f4-c9e88926c6aa)
 
@@ -68,9 +68,9 @@
 
 * [重新定义Web的无障碍](http://alistapart.com/article/reframing-accessibility-for-the-web)
 
-* [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
+* [无障碍问题的字母表](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
-* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+* [实用ARIA实例](http://heydonworks.com/practical_aria_examples/)
 
 * [MDN无障碍指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 

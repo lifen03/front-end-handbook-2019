@@ -1,6 +1,6 @@
 ### 5.33 协作和通信工具
 
-* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) \[免费\]
+* [Slack](https://slack.com/) 和 [screenhero](https://screenhero.com/) \[免费\]
 
 * [appear.in](https://appear.in/)
 

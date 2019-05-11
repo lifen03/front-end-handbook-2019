@@ -2207,7 +2207,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 ## 第5章 前端开发工具
 
-本章确定了行业的工具。 在研究工具本身之前，请确保你了解一组工具所属的类别。 请注意，仅仅因为列出了一个工具，或者记录了一类工具，这并不等于我认为前端开发者应该学习并使用它。 选择自己的工具箱。 我只是提供常见的工具箱选项。
+本章讲述了行业的工具。 在研究工具本身之前，一定要了解一组工具所属的类别。请注意，仅仅因为列出了一个工具，或者记录了一类工具，这并不等于我认为前端开发者应该学习并使用它。 选择自己的工具箱。 我只是提供常见的工具箱选项而已。
 
 ### 5.1 Doc/API浏览工具
 
@@ -2244,11 +2244,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 ### 5.3 原型图和线框工具
 
-**创造：**
+**创建：**
 
 + [Axure](http://www.axure.com/) [付费]
 
-+ [Balsamiq Mockups](https://balsamiq.com/) [付费]
++ [界面原型制作工具](https://balsamiq.com/) [付费]
 
 + [Justinmind](http://www.justinmind.com/) [付费]
 
@@ -2301,7 +2301,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 使用Notepad或者TextEdit等简单的文本编辑应用程序可以最低限度地编辑前端代码。但是，大多数前端从业者使用专门设计的代码编辑器来编辑编程语言。
 
-可以这么说，代码编辑器有各种类型和大小。 选择哪一个都是相当主观的。 选择一个从里到外地学习，然后继续学习HTML，CSS，DOM和JavaScript。
+可以这么说，代码编辑器有各种类型和大小。 选择哪一个都是相当主观的。 选择一个从里到外地学习，然后继续学习HTML、CSS、DOM和JavaScript。
 
 但是，我坚信，代码编辑器应该具有以下特性（默认情况下或者通过插件）：
 
@@ -2417,7 +2417,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 + [Modernizr](https://modernizr.com/)
 
-**浏览器广泛支持的Polyfills和Shims**
+**浏览器广泛支持的Polyfill和Shim**
 
 + [console-polyfill](https://github.com/paulmillr/console-polyfill)
 
@@ -2445,7 +2445,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 + [Nightcloud.io](http://nightcloud.io/)
 
-+ [Sauce Labs](https://saucelabs.com/) [付费]
++ [Sauce实验室](https://saucelabs.com/) [付费]
 
 **无头浏览器:**
 
@@ -2453,7 +2453,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 + [Zombie.js](http://zombie.js.org/)
 
-+ [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
++ [无头Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
 **自动化浏览器**
 
@@ -2475,7 +2475,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **浏览器列表：**
 
-在不同的前端工具之间共享目标浏览器，例如Autoprefixer，Stylelint和babel-preset-env。
+在不同的前端工具之间共享目标浏览器，例如Autoprefixer、Stylelint和babel-preset-env。
 
 + [Browserslist](https://github.com/ai/browserslist)
   + [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)
@@ -2492,7 +2492,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 + [HTML骨骼](http://html5bones.com/)
 
-+ [移动端模板](https://html5boilerplate.com/mobile/)
++ [移动模板](https://html5boilerplate.com/mobile/)
 
 **HTML Polyfill：**
 
@@ -2600,7 +2600,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **CSS重置：**
 
-> *CSS重置(或“重置CSS”)是一组简短的、通常经过压缩(缩小)的CSS规则，用于将所有HTML元素的样式重置为一致的基线。*
+> *CSS重置(又叫“重置CSS”)是一组简短的、通常经过压缩(缩小)的CSS规则，用于将所有HTML元素的样式重置为一致的基线。*
 > 
 > *—[cssreset.com](http://cssreset.com/what-is-a-css-reset/)*
 
@@ -2628,23 +2628,23 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [cssreference.io](http://cssreference.io/)
 
-* [CSS Indexes - A listing of every term defined by CSS specs](https://drafts.csswg.org/indexes/)
+* [CSS索引 - CSS规范定义每个术语的列表](https://drafts.csswg.org/indexes/)
 
 * [css4-selectors.com](http://css4-selectors.com/)
 
 * [css4 Rocks](http://css4.rocks/)
 
-* [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
+* [CSS触发器...布局、绘制和合成的游戏](http://csstriggers.com/)
 
 * [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 
 * [cssvalues.com](http://cssvalues.com/)
 
-* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN CSS参考](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-* [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
+* [CSS备忘单](https://adam-marsden.co.uk/css-cheat-sheet/)
 
-* [What’s next for CSS?](https://cssdb.org/)
+* [CSS的下一步是什么？](https://cssdb.org/)
 
 **校验和提示:**
 
@@ -2670,11 +2670,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **在线创建、生成和测试工具:**
 
-* [CSS Arrow Please](http://cssarrowplease.com/)
+* [请用CSS箭头](http://cssarrowplease.com/)
 
 * [CSS Matic](http://www.cssmatic.com/)
 
-* [Enjoy CSS](http://enjoycss.com/)
+* [享受CSS](http://enjoycss.com/)
 
 * [flexplorer](http://bennettfeely.com/flexplorer/)
 
@@ -2682,17 +2682,24 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [patternizer.com](http://patternizer.com/)
 
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [极限CSS梯型编辑器](http://www.colorzilla.com/gradient-editor/)
 
 **CSS架构设计：**
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) \[阅读\]
+
 * [BEM](http://getbem.com/introduction/)
+
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
 * [OOCSS](http://oocss.org/) \[阅读\]
+
 * [SMACSS](https://smacss.com/) \[阅读\]\[付费\]
-  * [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) \[观看\]\[付费\]
+
+  * [CSS的可扩展模块化体系结构(SMACSS)](https://frontendmasters.com/courses/smacss/) \[观看\]\[付费\]
+  
 * [SUIT CSS](http://suitcss.github.io)
+
 * [rscss](http://rscss.io/)
 
 <!-- Authoring/Architecting Conventions: -->
@@ -2706,11 +2713,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [常用的CSS](https://github.com/necolas/idiomatic-css) \[阅读\]
 
-* [MaintainableCSS](http://maintainablecss.com/) \[阅读\]
+* [可维护的CSS](http://maintainablecss.com/) \[阅读\]
 
 * [HTML和CSS灵活开发、持久和可持续的标准](http://mdo.github.io/code-guide/) \[阅读\]
 
-* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) \[阅读\]
+* [Airbnb CSS和Sass风格指南](https://github.com/airbnb/css) \[阅读\]
 
 **风格指南资源：**
 
@@ -2724,12 +2731,14 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **CSS in JS:**
 
-* [styled components](https://www.styled-components.com/)
+* [样式组件](https://www.styled-components.com/)
+
 * [Emotion](https://emotion.sh/docs/introduction)
+
 * [Radium](https://formidable.com/open-source/radium/)
+
 * [Aphrodite](https://github.com/Khan/aphrodite)
 
-<!-- **Trending CSS Repositories on GitHub This Month： -->
 **本月在GitHub上流行的CSS库：**
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
@@ -2742,7 +2751,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [jQuery](http://jquery.com/)
 
-  * [You Don't Need jQuery]
+  * [你不需要jQuery]
   (https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 * [Zepto](http://zeptojs.com/)
@@ -2763,7 +2772,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **DOM事件工具：**
 
-* [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
+* [键盘事件查看器](http://w3c.github.io/uievents/tools/key-event-viewer.html)
 
 **DOM性能工具：**
 
@@ -2773,35 +2782,35 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **参考文献：**
 
-* [Events](https://html.spec.whatwg.org/#events-2)
+* [事件](https://html.spec.whatwg.org/#events-2)
 
-* [DOM Browser Support](http://www.webbrowsercompatibility.com/dom/desktop/)
+* [DOM浏览器支持](http://www.webbrowsercompatibility.com/dom/desktop/)
 
-* [DOM Events Browser Support](http://www.webbrowsercompatibility.com/dom-events/desktop/)
+* [DOM事件浏览器支持](http://www.webbrowsercompatibility.com/dom-events/desktop/)
 
-* [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [HTML接口浏览器支持](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 
-* [MDN Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [MDN 文档对象模型（DOM）](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-* [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [MDN 浏览器对象模型（BOM）](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
-* [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [MDN 文档对象模型](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-* [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [MDN 事件引用](https://developer.mozilla.org/en-US/docs/Web/Events)
 
-* [MSDN Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
+* [MSDN 文档对象模型（DOM）](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
-**DOM Polyfills/Shims:**
+**DOM Polyfill和Shim:**
 
 * [dom-shims](https://github.com/necolas/dom-shims)
 
-* [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)
+* [指针事件Polyfill: 一个统一的Web平台事件系统](https://github.com/jquery/PEP)
 
 **虚拟DOM:**
 
 * [jsdom](https://github.com/tmpvar/jsdom)
 
-* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+* [虚拟DOM](https://github.com/Matt-Esch/virtual-dom)
 
 ### 5.11 JavaScript工具
 
@@ -2835,7 +2844,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [Luxon](https://moment.github.io/luxon/)
 
-  * [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  * [你（可能）不需要Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
 * [Math.js](http://mathjs.org/)
 
@@ -2935,7 +2944,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **优化:**
 
-* [Closure Compiler](https://developers.google.com/closure/compiler/)
+* [闭包编译器](https://developers.google.com/closure/compiler/)
 
 * [Terser](https://github.com/terser-js/terser)
 
@@ -2945,7 +2954,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **混淆：**
 
-* [Javascript Obfuscator](http://www.javascriptobfuscator.com/) \[免费\]
+* [Javascript混淆工具](http://www.javascriptobfuscator.com/) \[免费\]
 
 * [JScrambler](https://jscrambler.com/) \[付费\]
 
@@ -2965,9 +2974,9 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 **编写规范工具：**
 
-* [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
+* [Airbnb的ESLint配置，遵循我们的样式指南](https://www.npmjs.com/package/eslint-config-airbnb)
 
-* [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
+* [标准-ESLint可共享Config](https://github.com/feross/eslint-config-standard)
 
 **本月在GitHub上流行的JS库：**
 
@@ -2991,7 +3000,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
 
-### 5.14 辅助功能工具
+### 5.14 无障碍工具
 
 **指南**
 
@@ -3051,7 +3060,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [Grammarly](https://www.grammarly.com)
 
-* [Readability Score](https://readability-score.com/text/)
+* [可读性评分](https://readability-score.com/text/)
 
 * [MS Office](https://support.office.com/en-us/article/Test-your-document-s-readability-0adc0e9a-b3fb-4bde-85f4-c9e88926c6aa)
 
@@ -3061,15 +3070,15 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [重新定义Web的无障碍](http://alistapart.com/article/reframing-accessibility-for-the-web)
 
-* [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
+* [无障碍问题的字母表](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 
-* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+* [实用ARIA实例](http://heydonworks.com/practical_aria_examples/)
 
 * [MDN无障碍指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 * [在Chrome开发工具中启用无障碍面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
 
-### 5.15 应用程序框架（桌面，移动，平板电脑等）工具
+### 5.15 应用程序框架（桌面、移动、平板电脑等）工具
 
 **前端应用程序框架:**
 
@@ -3079,11 +3088,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [Aurelia](http://aurelia.io/) \+ [Aurelia CLI](https://github.com/aurelia/cli)
 
-* [Ember](http://emberjs.com/) \+ [embercli](https://ember-cli.com/) \+ [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
+* [Ember](http://emberjs.com/) \+ [embercli](https://ember-cli.com/) \+ [Ember检查工具](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 
 * [Polymer](https://www.polymer-project.org/1.0/)
 
-* [React](http://facebook.github.io/react/) \+ [create-react-app](https://github.com/facebookincubator/create-react-app) \+ [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [React](http://facebook.github.io/react/) \+ [create-react-app](https://github.com/facebookincubator/create-react-app) \+ [React开发者工具](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 * [Vue.js](http://vuejs.org/) \+ [vue-cli](https://github.com/vuejs/vue-cli) & [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 
@@ -3123,7 +3132,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [DeskGap](https://deskgap.com/)
 
-**原生移动应用程序框架(即JavaScript原生应用程序)**
+**原生移动应用程序框架(又叫JavaScript原生应用程序)**
 
 这些解决方案在运行时使用JS引擎来解释JS并将其连接到本地API。无需使用浏览器引擎或者WebView。UI由原生UI组件构造。
 
@@ -3143,21 +3152,21 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [todomvc.com](http://todomvc.com/)
 
-* [RealWorld example apps](https://github.com/gothinkster/realworld) \[code\]
+* [RealWorld示例应用程序](https://github.com/gothinkster/realworld) \[code\]
 
-* [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+* [前端准则草案](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
-* [Front-end Guidelines](https://github.com/bendc/frontend-guidelines)
+* [前端准则](https://github.com/bendc/frontend-guidelines)
 
 **性能：**
 
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
 
-* [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[阅读\]
+* [前端性能检查列表2019\[PDF、Apple Pages、MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[阅读\]
 
 如果你是前端JavaScript应用程序开发新手，我建议从[Vue.js](http://vuejs.org/)开始。然后我会把[React](http://facebook.github.io/react/)应用到工作中。然后我也会学习 [Angular 2+](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/)。
 
-如果你正在构建一个与数据交互最少的简单网站(即主要是静态内容的网站)，那么应该避免使用前端框架。使用像[Gulp and jQuery](https://github.com/vigetlabs/blendid)这样的任务运行器可以完成很多工作，同时避免了不必要的学习和使用应用程序框架工具的复杂性。
+如果你正在构建一个与数据交互最少的简单网站(主要是静态内容的网站)，那么应该避免使用前端框架。使用像[Gulp and jQuery](https://github.com/vigetlabs/blendid)这样的任务运行器可以完成很多工作，同时避免了不必要的学习和使用应用程序框架工具的复杂性。
 
 想要比“React”精巧的框架，考虑一下“[Preact](https://preactjs.com/)”。
 Preact试图以用尽可能少的代码来重新创建React(或类似的库，如Mithril)的核心价值主张，并优先为ES2015提供支持。目前该库大约为3kb(minified和gzipped)。
@@ -3237,19 +3246,19 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 **Web平台：**
 
-* [Kendo UI](http://www.telerik.com/kendo-ui) for jQuery \[免费\]
+* jQuery的[Kendo UI](http://www.telerik.com/kendo-ui) \[免费\]
 
 * [Materialize](http://materializecss.com/)
 
-* [Office UI Fabric](http://dev.office.com/fabric)
+* [Office UI结构](http://dev.office.com/fabric)
 
-* [Semantic UI](http://semantic-ui.com/)
+* [语义化的UI](http://semantic-ui.com/)
 
 * [UiKit](https://getuikit.com/)
 
 * [Webix](http://webix.com/) \[付费\]
 
-**React Specific，Web平台：**
+**Web平台上React规范**
 
 * [Ant Design](https://ant.design/)
 
@@ -3265,7 +3274,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [Photon](http://photonkit.com/)
 
-* [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
+* [OSX、EL Capitan和Windows 10的响应式UI组件](http://gabrielbull.github.io/react-desktop/)
 
 如果需要一组基础UI小部件和组件，可以从[Semantic UI](http://semantic-ui.com/)开始。
 如果你正在构建一些需要网格、电子表格或主网格的东西，你必须查看[Kendo UI](http://www.telerik.com/kendo-ui)或者[Webix](http://webix.com/)。请记住，这些解决方案中的大多数仍然需要jQuery。
@@ -3294,7 +3303,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [FusionCharts](http://www.fusioncharts.com/) \[付费\]
 
-* [Google Charts](https://developers.google.com/chart/interactive/docs/)
+* [Google图表](https://developers.google.com/chart/interactive/docs/)
 
 * [Highcharts](http://www.highcharts.com/) \[非商业 部分免费\]
 
@@ -3310,7 +3319,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [plotly](https://plot.ly/) \[部分免费\]
 
-### 5.23 图形（SVG，canvas，WebGL）工具
+### 5.23 图形（SVG、canvas、WebGL）工具
 
 **常规:**
 
@@ -3386,13 +3395,13 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [JSONmate](http://jsonmate.com/)
 
-* [JSON Editor Online](https://jsoneditoronline.org/)
+* [JSON在线编辑](https://jsoneditoronline.org/)
 
 **格式化和验证：**
 
 * [jsonformatter.org](http://jsonformatter.org/)
 
-* [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [JSON格式化和校验](https://jsonformatter.curiousconcept.com/)
 
 **查询工具：**
 
@@ -3404,7 +3413,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 **生成模拟JSON工具:**
 
-* [JSON Generator](http://www.json-generator.com/)
+* [JSON生成器](http://www.json-generator.com/)
 
 * [Mockaroo](https://www.mockaroo.com/) \[免费\]
 
@@ -3432,7 +3441,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 **公开的JSON API列表：**
 
-* [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
+* [用于Web开发的JSON API的集合列表](https://github.com/toddmotto/public-apis)
 
 **本地JSON模拟API工具:**
 
@@ -3454,9 +3463,9 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [Placeimg](http://placeimg.com)
 
-* [Lorem Pixel](http://lorempixel.com)
+* [Lorem像素](http://lorempixel.com)
 
-* [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+* [CSS-Tricks图像资源](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
 
 * [LibreStock](http://librestock.com)
 
@@ -3558,7 +3567,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 
-* [Ghost Inspector](https://ghostinspector.com/)
+* [Ghost检查工具](https://ghostinspector.com/)
 
 * [diff.io](https://diff.io/)
 
@@ -3656,7 +3665,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 ### 5.33 协作和通信工具
 
-* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) \[免费\]
+* [Slack](https://slack.com/) 和 [screenhero](https://screenhero.com/) \[免费\]
 
 * [appear.in](https://appear.in/)
 
@@ -3770,7 +3779,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [HTML5安全备忘单](https://html5sec.org/)
 
-### 5.38 任务（又称构建）工具
+### 5.38 构建工具
 
 **任务或构建工具：**
 

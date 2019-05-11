@@ -1,10 +1,10 @@
 ### 5.3 原型图和线框工具
 
-**创造：**
+**创建：**
 
 + [Axure](http://www.axure.com/) [付费]
 
-+ [Balsamiq Mockups](https://balsamiq.com/) [付费]
++ [界面原型制作工具](https://balsamiq.com/) [付费]
 
 + [Justinmind](http://www.justinmind.com/) [付费]
 

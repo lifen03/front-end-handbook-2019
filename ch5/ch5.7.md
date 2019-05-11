@@ -55,7 +55,7 @@
 
 + [Modernizr](https://modernizr.com/)
 
-**浏览器广泛支持的Polyfills和Shims**
+**浏览器广泛支持的Polyfill和Shim**
 
 + [console-polyfill](https://github.com/paulmillr/console-polyfill)
 
@@ -83,7 +83,7 @@
 
 + [Nightcloud.io](http://nightcloud.io/)
 
-+ [Sauce Labs](https://saucelabs.com/) [付费]
++ [Sauce实验室](https://saucelabs.com/) [付费]
 
 **无头浏览器:**
 
@@ -91,7 +91,7 @@
 
 + [Zombie.js](http://zombie.js.org/)
 
-+ [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
++ [无头Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
 **自动化浏览器**
 
@@ -113,7 +113,7 @@
 
 **浏览器列表：**
 
-在不同的前端工具之间共享目标浏览器，例如Autoprefixer，Stylelint和babel-preset-env。
+在不同的前端工具之间共享目标浏览器，例如Autoprefixer、Stylelint和babel-preset-env。
 
 + [Browserslist](https://github.com/ai/browserslist)
   + [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)
