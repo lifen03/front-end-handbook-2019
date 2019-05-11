@@ -1,11 +1,11 @@
 ### 3.8 学习HTML和CSS
 
-> ***HTML** — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
+> *<b>HTML</b> — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/HTML) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 >
 
-> ***CSS** — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
+> *<b>CSS</b> — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 

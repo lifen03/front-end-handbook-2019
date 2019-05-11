@@ -853,7 +853,8 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.4 学习HTTP网络协议（包括CORS和WebSockets）
 
-> ***HTTP** — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
+> *<b>HTTP</b> — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
+>
 > *— [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)*
 
 **HTTP说明**
@@ -892,7 +893,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [HTTP60秒内的状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
 
-> ***CORS** — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
+> *<b>CORS</b> — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B7%A8%E4%BE%86%E6%BA%90%E8%B3%87%E6%BA%90%E5%85%B1%E4%BA%AB)*
 
@@ -906,7 +907,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [HTTP访问控制 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[观看\]
 
-> ***WebSocket** — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
+> *<b>WebSocket</b> — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/WebSocket) & [中文地址](https://zh.wikipedia.org/wiki/WebSocket)*
 
@@ -968,22 +969,22 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.7 学习用户界面和交互设计
 
-> ***用户界面设计** — 用户界面设计（UI）或用户界面工程是机器和软件（如计算机，家用电器，移动设备和其他电子设备）的用户界面设计，重点是 最大化用户体验。 用户界面设计的目标是在完成用户目标（以用户为中心的设计）方面使用户的交互尽可能简单有效。*
+> *<b>用户界面设计</b> — 用户界面设计（UI）或用户界面工程是机器和软件（如计算机，家用电器，移动设备和其他电子设备）的用户界面设计，重点是 最大化用户体验。 用户界面设计的目标是在完成用户目标（以用户为中心的设计）方面使用户的交互尽可能简单有效。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/User_interface_design) & [中文地址](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1)*
 >
 
-> ***交互设计模式** — 设计模式是记录常见设计问题解决方案的正式方式。 这个想法是由建筑师克里斯托弗亚历山大介绍用于城市规划和建筑建筑，并已适应各种其他学科，包括教学和教学，开发组织和过程，软件架构和设计。*
+> *<b>交互设计模式</b> — 设计模式是记录常见设计问题解决方案的正式方式。 这个想法是由建筑师克里斯托弗亚历山大介绍用于城市规划和建筑建筑，并已适应各种其他学科，包括教学和教学，开发组织和过程，软件架构和设计。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Design_pattern) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1)*
 >
 
-> ***用户体验设计** — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，无障碍和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
+> *<b>用户体验设计</b> — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，可触达性和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/User_experience_design) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97)*
 > 
 
-> ***人机交互** - 人机交互（HCI）研究计算机技术的设计和使用，特别关注人（用户）和计算机之间的接口。 人机交互领域的研究人员都观察了人类与计算机交互的方式以及设计技术，这些技术可以让人类以新颖的方式与计算机进行交互。*
+> *<b>人机交互</b> - 人机交互（HCI）研究计算机技术的设计和使用，特别关注人（用户）和计算机之间的接口。 人机交互领域的研究人员都观察了人类与计算机交互的方式以及设计技术，这些技术可以让人类以新颖的方式与计算机进行交互。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92)*
 
@@ -1003,12 +1004,12 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.8 学习HTML和CSS
 
-> ***HTML** — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
+> *<b>HTML</b> — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/HTML) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 >
 
-> ***CSS** — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
+> *<b>CSS</b> — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 
@@ -1344,17 +1345,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.11 学习DOM、BOM、CSSOM和jQuery
 
-> ***DOM** — 文档对象模型（DOM）是一种跨平台且与语言无关的约定，用于表示HTML，XHTML和XML文档中的对象并与之交互。 每个文档的节点都以树结构组织，称为DOM树。 可以通过使用对象上的方法来寻址和操纵DOM树中的对象。 DOM的公共接口在其应用程序编程接口（API）中指定。*
+> *<b>DOM</b> — 文档对象模型（DOM）是一种跨平台且与语言无关的约定，用于表示HTML，XHTML和XML文档中的对象并与之交互。 每个文档的节点都以树结构组织，称为DOM树。 可以通过使用对象上的方法来寻址和操纵DOM树中的对象。 DOM的公共接口在其应用程序编程接口（API）中指定。*
 >
 > *—[维基百科](https://en.wikipedia.org/wiki/Document_Object_Model) & [中文地址](https://zh.wikipedia.org/wiki/%E6%96%87%E6%A1%A3%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B)*
 > 
 
-> ***BOM** — 浏览器对象模型（BOM）是一种特定于浏览器的约定，指的是Web浏览器公开的所有对象。 与文档对象模型不同，没有标准的实现和严格的定义，因此浏览器供应商可以自由地以任何方式实现BOM。*
+> *<b>BOM</b> — 浏览器对象模型（BOM）是一种特定于浏览器的约定，指的是Web浏览器公开的所有对象。 与文档对象模型不同，没有标准的实现和严格的定义，因此浏览器供应商可以自由地以任何方式实现BOM。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Browser_Object_Model) & [中文地址](https://zh.wikipedia.org/wiki/BOM)*
 > 
 
-> ***jQuery** — jQuery是一个跨平台的JavaScript库，旨在简化HTML的客户端脚本。 jQuery是目前使用最流行的JavaScript库，安装在网络上前1000万个流量最高的网站中的65％。 jQuery是根据MIT许可证授权的免费开源软件。*
+> *<b>jQuery</b> — jQuery是一个跨平台的JavaScript库，旨在简化HTML的客户端脚本。 jQuery是目前使用最流行的JavaScript库，安装在网络上前1000万个流量最高的网站中的65％。 jQuery是根据MIT许可证授权的免费开源软件。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/JQuery) & [中文地址](https://zh.wikipedia.org/wiki/JQuery)*
 
@@ -1974,11 +1975,9 @@ Git是现今最常见用于版本控制解决方案。学习它吧！
 
 ### 3.33 学习构建和任务自动化
 
-> ***组建自动化**（英语：Build automation，又称**构建自动化**、**自动化构建**）指自动创建[软件组建](https://zh.wikipedia.org/wiki/%E8%BB%9F%E9%AB%94%E7%B5%84%E5%BB%BA)的一组进程，包括将计算机[源代码编译](https://zh.wikipedia.org/wiki/%E6%BA%90%E4%BB%A3%E7%A0%81)成[二进制码](https://zh.wikipedia.org/w/index.php?title=%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%A0%81&action=edit&redlink=1)、將二进制码[包装](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)成[软件包](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%8C%85)以及运行[自动化测试](https://zh.wikipedia.org/wiki/%E6%B8%AC%E8%A9%A6%E8%87%AA%E5%8B%95%E5%8C%96)。*
+> *构建自动化是自动创建软件构建和相关过程的过程，包括：将计算机源代码编译为二进制代码、打包二进制代码和运行自动化测试。*
 >
-> *- [维基百科](https://en.wikipedia.org/wiki/Build_automation)* & *[中文链接](https://zh.wikipedia.org/wiki/%E7%B5%84%E5%BB%BA%E8%87%AA%E5%8B%95%E5%8C%96)*
->
-> *— [维基百科](https://en.wikipedia.org/wiki/Build_automation)*
+> *- [维基百科](https://en.wikipedia.org/wiki/Build_automation) & [中文链接](https://zh.wikipedia.org/wiki/%E7%B5%84%E5%BB%BA%E8%87%AA%E5%8B%95%E5%8C%96)*
 >
 
 **基础学习：**
