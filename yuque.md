@@ -2050,11 +2050,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Unit_testing) & [中文地址](https://zh.wikipedia.org/wiki/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)*
 >
-> 功能性测试 - 功能性测试是一种质量保证的过程和黑盒测试。其测试用例基于被测试软件组件的规范。功能通过提供输入和校验输出来进行测试，很少考虑其内部程序架构（与白盒测试不同）。功能性测试经常用来表示系统是做何用的？
+> *功能性测试 - 功能性测试是一种质量保证的过程和黑盒测试。其测试用例基于被测试软件组件的规范。功能通过提供输入和校验输出来进行测试，很少考虑其内部程序架构（与白盒测试不同）。功能性测试经常用来表示系统是做何用的？*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Functional_testing)*
 >
-> 集成测试 - 集成测试（有时也叫做集成与测试，缩写I&T）是软件测试中的阶段，在这个阶段，单个软件模块被组合一起并以一组进行测试。这阶段出现于单元测试之后，校验测试之前。集成测试将已经单元测试的输入模块作为输入模块，将它们分组为更大的聚合，将集成测试计划中定义的测试应用于这些聚合，并将集成系统作为输出交付给系统测试。
+> *集成测试 - 集成测试（有时也叫做集成与测试，缩写I&T）是软件测试中的阶段，在这个阶段，单个软件模块被组合一起并以一组进行测试。这阶段出现于单元测试之后，校验测试之前。集成测试将已经单元测试的输入模块作为输入模块，将它们分组为更大的聚合，将集成测试计划中定义的测试应用于这些聚合，并将集成系统作为输出交付给系统测试。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Integration_testing)*
 >
@@ -2094,17 +2094,17 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [开始使用Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)[自述文件]
 
-[PhantomJS已不再维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain)，并由[Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)接棒。
+[PhantomJS已不再维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain)，并由[Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)接手。
 
 ### 3.37 学习离线开发
 
-离线开发（aka 离线优先）是设备开发事件的一个知识点和讨论点，这些设备不会经常连接到互联网或电源。
+离线开发（又叫离线优先）是设备开发事件的一个知识点和讨论点，这些设备不会经常连接到互联网或电源。
 
 **基础学习：**
 
 - [创建HTML5离线Web应用程序](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) [阅读]
 
-- [创建离线优先Web Apps所需的一切知识](https://github.com/pazguille/offline-first) [阅读]
+- [创建离线优先Web应用程序所需的一切知识](https://github.com/pazguille/offline-first) [阅读]
 
 - [离线优先](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [阅读]
 
@@ -2114,25 +2114,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [离线-快速开始](https://developers.google.com/web/ilt/pwa/offline-quickstart) [阅读]
 
-### 3.37 学习离线开发
-
-离线开发（aka 离线优先）是设备开发事件的一个知识点和讨论点，这些设备不会经常连接到互联网或电源。
-
-**基础学习：**
-
-- [创建HTML5离线Web应用程序](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) [阅读]
-
-- [创建离线优先Web Apps所需的一切知识](https://github.com/pazguille/offline-first) [阅读]
-
-- [离线优先](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [阅读]
-
-- [offlinefirst.org](http://offlinefirst.org/) [阅读]
-
-- [离线食谱](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) [阅读]
-
-- [离线-快速开始](https://developers.google.com/web/ilt/pwa/offline-quickstart) [阅读]
-
-### 3.38 学习Web/浏览器/应用安全
+### 3.38 学习Web安全、浏览器安全和应用程序安全
 
 - [浏览器安全手册](https://code.google.com/p/browsersec/wiki/Main) [阅读]
 
@@ -2144,15 +2126,15 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [HTTP安全最佳实践](https://httpsecurityreport.com/best_practice.html) [阅读]
 
-- [Web开发的身份和数据安全：最佳实践](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f5f2aaa4d5f944a3ccc316a16e3673f4&camp=1789&creative=9325) [阅读]
+- [Web开发中的身份和数据安全：最佳实践](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f5f2aaa4d5f944a3ccc316a16e3673f4&camp=1789&creative=9325) [阅读]
 
 - [Web开发者的安全：使用JavaScript，HTML，CSS](https://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=df49be399d7d1a12acebe5a85637a7a8&camp=1789&creative=9325) [阅读][付费]
 
 - [Web应用程序安全基础](http://martinfowler.com/articles/web-security-basics.html) [阅读]
 
-- [互联网：加密&公钥](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6) [观看]
+- [互联网：加密和公钥](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6) [观看]
 
-- [互联网：网络安全&犯罪](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7) [观看]
+- [互联网：网络安全和犯罪](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7) [观看]
 
 - [复杂的Web：保卫现代浏览器应用程序的指南](http://lcamtuf.coredump.cx/tangled/) [阅读][付费]
 
@@ -2170,11 +2152,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 *图片来源: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)*
 
-网站和网页应用能够运行在许多各种不同的计算机，手提电脑，平板电脑和手机上，也能运行在新式设备上（手表，温度调节器，冰箱等等）。你确定你将会支持哪种设备以及怎样开发来支持这些设备，称为“多设备开发策略”。以下，我列举了最常见的多设备开发策略。
+网站和网页应用能够运行在许多各种不同的计算机、手提电脑、平板电脑和手机上，也能运行在新式设备上（比如手表、温度调节器、冰箱等）。你确定你将会支持哪种设备以及怎样开发来支持这些设备，称为“多设备开发策略”。以下，我列举了最常见的多设备开发策略。
 
-- 为所有设备构建一个[响应式（RWD）](https://en.wikipedia.org/wiki/Responsive_web_design)网站/应用。
+- 为所有设备构建一个[响应式（RWD）](https://en.wikipedia.org/wiki/Responsive_web_design)网站或应用程序。
 
-- 为所有设备构建一个可适配/渐进式增强的网站/应用。
+- 为所有设备构建一个可适配且渐进式增强的网站或应用程序。
 
 - 为了每个独立设备或一组设备构建一个网站，web应用，原生应用或混合应用。
 
@@ -2188,11 +2170,11 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [适配式Web设计](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) [阅读]
 
-- [使用渐进式增强进行设计](https://www.amazon.[付费]com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [阅读][付费]
+- [使用渐进式增强的方式进行设计](https://www.amazon.[付费]com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [阅读][付费]
 
 - [移动Web开发](https://www.udacity.com/course/mobile-web-development--cs256) [观看]
 
-- [用于响应式Web设计的CSS Grids和Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) [观看][付费]
+- [用于响应式Web设计的CSS Grid和Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) [观看][付费]
 
 - [响应式HTML邮件设计](https://frontendmasters.com/courses/responsive-email/) [观看][付费]
 
