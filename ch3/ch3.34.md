@@ -13,15 +13,15 @@
 
 - [高性能网站：前端工程师的关键知识](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) [阅读][付费]
 
-- [JavaScript性能摇滚](http://javascriptrocks.com/) [阅读][付费]
+- [JavaScript性能Rock](http://javascriptrocks.com/) [阅读][付费]
 
 - [页面速度洞察规则][https://developers.google.com/speed/docs/insights/rules][阅读]
 
-- [时下的性能工具](http://www.perf-tooling.today/) [阅读]
+- [最新的性能工具](http://www.perf-tooling.today/) [阅读]
 
 - [性能日程表](http://calendar.perfplanet.com/) [阅读]
 
-- [性能.摇滚](http://perf.rocks/) [阅读]
+- [性能.rock](http://perf.rocks/) [阅读]
 
 - [使用WebPageTest](https://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=91a76d5d4b4f47cf4e0d1392cc9cea30&camp=1789&creative=9325) [阅读]
 
@@ -29,7 +29,7 @@
 
 - [网站性能](https://frontendmasters.com/courses/web-performance/) [观看][付费]
 
-- [基于Webpack 4的Web性能](https://frontendmasters.com/courses/performance-webpack/) [观看][付费]
+- [基于Webpack4的Web性能](https://frontendmasters.com/courses/performance-webpack/) [观看][付费]
 
 - [网站性能优化](https://www.udacity.com/course/website-performance-optimization--ud884) [观看]
 

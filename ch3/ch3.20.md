@@ -1,9 +1,10 @@
 ### 3.20 学习前端应用程序架构
 
 **基础学习:**
-* [抓住前端指南](https://github.com/grab/front-end-guide) \[观看\]
 
-* [一组JavaScript项目的最佳实践](https://github.com/elsewhencode/project-guidelines)
+* [掌握前端指南](https://github.com/grab/front-end-guide) \[观看\]
+
+* [JavaScript项目的一组最佳实践](https://github.com/elsewhencode/project-guidelines)
 
 * [现代Web开发的拼写书](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
@@ -31,7 +32,7 @@
 
 * [前端案例研究](https://github.com/andrew--r/frontend-case-studies) \[观看\]
 
-到目前为止，还没有多少关于这个主题的一般内容。学习如何构建前端/SPA/JavaScript应用程序的大部分内容都是假设你已经决定使用Angular、Ember、React或Aurelia等工具了。
+到目前为止，还没有多少关于这个主题的一般内容。学习如何构建前端、SPA和JavaScript应用程序的大部分内容都是假设你已经决定使用Angular、Ember、React或Aurelia等工具了。
 
-[2019](https://2018.stateofjs.com/front-end-frameworks/overview/)年，我学习[React](https://facebook.github.io/react/)和[Mobx](https://github.com/mobxjs/mobx)以及[Apollo/graphql](https://www.apollographql.com/)的建议。
+[2019](https://2018.stateofjs.com/front-end-frameworks/overview/)年，这是我学习[React](https://facebook.github.io/react/)和[Mobx](https://github.com/mobxjs/mobx)以及[Apollo/graphql](https://www.apollographql.com/)的建议。
 

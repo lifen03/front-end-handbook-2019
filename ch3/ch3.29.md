@@ -2,7 +2,7 @@
 
 **基础学习：**
 
-- [面向没耐心的程序员的JavaScript - 模块](http://exploringjs.com/impatient-js/ch_modules.html) [阅读]
+- [面向没耐心程序员的JavaScript - 模块](http://exploringjs.com/impatient-js/ch_modules.html) [阅读]
 
 - [深入ES6模块](https://ponyfoo.com/articles/es6-modules-in-depth) [阅读]
 
@@ -12,7 +12,7 @@
 
 **参考文献与文档：**
 
-- [MDN - 导出](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+- [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 
-- [MDN - 导入](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 

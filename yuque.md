@@ -1533,17 +1533,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [Web内容无障碍指南(WCAG)的当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
 
-### 3.15 学习Web浏览器API
+### 3.15 学习Web API 和浏览器API
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-api.png)
 
 *图片来源: [http://www.evolutionoftheweb.com/](http://www.evolutionoftheweb.com/)*
 
-BOM(浏览器对象模型)和DOM(文档对象模型)并不是在浏览器内部的Web平台上可用的唯一浏览器API。DOM或BOM没什么特别的,但是有一个接口，用于浏览器编程可以被视为一个Web浏览器API(不幸的是在过去的一些API被称为HTML5 API混淆自己的细节/HTML5规范与实际的HTML5规范指定标记语言)。注意，Web或浏览器API确实包括设备API(例如，[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery))，这些API可以通过浏览器在平板电脑和手机设备上使用。
+BOM(浏览器对象模型)和DOM(文档对象模型)并不是浏览器内部唯一可以在Web平台上使用的浏览器API。所有不是特定的DOM或BOM，而是用于对浏览器进行编程的接口，都可以被看作是Web或Browser API(不幸的是，过去有些API被称为HTML5 API，它混淆了它们自己的特性和标准化，与指定HTML5标记语言的实际HTML5规范相混淆)。注意，Web或浏览器API确实包括设备API(例如，[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery))，这些API可以通过浏览器在平板电脑和手机设备上使用。
 
-你应该了解Web浏览器API，并在适当的地方学习它们。熟悉所有这些API，可以使用一个很好的工具来研究[HTML5test.com针对5种最流行的浏览器的测试结果](https://html5test.com/compare/browser/index.html)。
+你应该了解Web API 和浏览器API，并在适当的地方学习它们。要熟悉所有这些API，可以使用一个很好的工具来研究[HTML5test.com针对最流行的5个浏览器的测试结果](https://html5test.com/compare/browser/index.html)。
 
-MDN有大量关于Web浏览器API的信息。
+MDN有大量关于Web API 和浏览器API的信息。
 
 * [MDN Web API参考](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
@@ -1553,11 +1553,11 @@ MDN有大量关于Web浏览器API的信息。
 
 请记住，并非每个API都是由W3C或WHATWG指定的。
 
-除了MDN之外，你可能会发现以下资源对学习所有web浏览器API很有帮助:
+除了MDN之外，你可能还会发现以下资源对学习所有Web API 和浏览器API很有帮助:
 
 * [HTML5 JavaScript API索引](http://html5index.org/)
 
-* [HTML5 Overview](http://html5-overview.net/current)
+* [HTML5概述](http://html5-overview.net/current)
 
 * [platform.html5.org](https://platform.html5.org/)
 
@@ -1598,7 +1598,7 @@ MDN有大量关于Web浏览器API的信息。
 
 ### 3.17 学习JS模板
 
-通常使用JavaScript模板，但并不总是使用[MV*](http://todomvc.com/)解决方案从逻辑和模型(即, 数据或JSON)来分隔视图的各个部分(即用户界面)。
+JavaScript模板通常用于将视图的各个部分(UI)与逻辑和模型(数据或JSON)分离的[MV*](http://todomvc.com/)解决方案。
 
 * [ES6模版方法：Handlebar杀手?](https://www.keithcirkel.co.uk/es6-template-literals/) \[阅读\]
 
@@ -1606,13 +1606,13 @@ MDN有大量关于Web浏览器API的信息。
 
 * [Lodash模板](https://lodash.com/docs/4.17.2#template) \[docs\]
 
-注意到JavaScript 2015(又名ES6)添加了一个名为["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)的本地模板机制。此外，最近模板已经被[JSX](https://facebook.github.io/jsx/)、[一个模板元素](http://aurelia.io/docs/templating/basics)或[HTML字符串](https://angular.io/docs/ts/latest/guide/template-syntax.html#)之类的东西所取代。
+注意到JavaScript 2015(ES6)添加了一个名为["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)的本地模板机制。此外，最近模板已经被[JSX](https://facebook.github.io/jsx/)、[一个模板元素](http://aurelia.io/docs/templating/basics)或[HTML字符串](https://angular.io/docs/ts/latest/guide/template-syntax.html#)之类的东西所取代。
 
-如果我不使用React & JSX，我会首先使用JavaScript的["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)，当它也没有时，我会选择[nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
+如果我不使用React和JSX，我会首先使用JavaScript的["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)，当它也没有时，我会选择[nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
 
 ### 3.18 学习静态站点生成器
 
-静态站点生成器，通常使用服务器端代码(即，ruby、php、python、nodeJS等)，从静态文本/数据+模板生成静态HTML文件，这些文件从服务器静态地发送到客户机，而不需要动态。
+静态站点生成器，通常使用服务器端代码(比如，ruby、php、python、nodeJS等)，从静态文本或数据+模板生成静态HTML文件，这些模板将静态地从服务器发送到客户机，而不具有动态性质。
 
 **基础学习:**
 
@@ -1624,9 +1624,9 @@ MDN有大量关于Web浏览器API的信息。
 
 ### 3.19 通过JS学习计算机科学
 
-* [六个小时上四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
+* [六个小时完成四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
 
-* [六个小时四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
+* [六个小时完成四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
 
 * [JavaScript中的计算机科学](https://github.com/davidshariff/computer-science) \[阅读\]
 
@@ -1636,14 +1636,15 @@ MDN有大量关于Web浏览器API的信息。
 
 * [面试中数据结构介绍](https://frontendmasters.com/courses/data-structures-interviews/) \[观看\]\[付费\]
 
-* [JavaScript算法和数据结构大师类](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) \[观看\]\[付费\]
+* [大师级别的JavaScript算法和数据结构](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) \[观看\]\[付费\]
 
 ### 3.20 学习前端应用程序架构
 
 **基础学习:**
-* [抓住前端指南](https://github.com/grab/front-end-guide) \[观看\]
 
-* [一组JavaScript项目的最佳实践](https://github.com/elsewhencode/project-guidelines)
+* [掌握前端指南](https://github.com/grab/front-end-guide) \[观看\]
+
+* [JavaScript项目的一组最佳实践](https://github.com/elsewhencode/project-guidelines)
 
 * [现代Web开发的拼写书](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
@@ -1671,9 +1672,9 @@ MDN有大量关于Web浏览器API的信息。
 
 * [前端案例研究](https://github.com/andrew--r/frontend-case-studies) \[观看\]
 
-到目前为止，还没有多少关于这个主题的一般内容。学习如何构建前端/SPA/JavaScript应用程序的大部分内容都是假设你已经决定使用Angular、Ember、React或Aurelia等工具了。
+到目前为止，还没有多少关于这个主题的一般内容。学习如何构建前端、SPA和JavaScript应用程序的大部分内容都是假设你已经决定使用Angular、Ember、React或Aurelia等工具了。
 
-[2019](https://2018.stateofjs.com/front-end-frameworks/overview/)年，我学习[React](https://facebook.github.io/react/)和[Mobx](https://github.com/mobxjs/mobx)以及[Apollo/graphql](https://www.apollographql.com/)的建议。
+[2019](https://2018.stateofjs.com/front-end-frameworks/overview/)年，这是我学习[React](https://facebook.github.io/react/)和[Mobx](https://github.com/mobxjs/mobx)以及[Apollo/graphql](https://www.apollographql.com/)的建议。
 
 ### 3.21 学习数据API设计
 
@@ -1717,7 +1718,7 @@ MDN有大量关于Web浏览器API的信息。
 
 - [React-基础理论](https://github.com/reactjs/react-basic) [阅读]
 
-- [React + Mobx实战示例代码库（CRUD, 鉴权，高级模式等等）](https://github.com/gothinkster/react-mobx-realworld-example-app)[编码]
+- [React + Mobx实战示例代码库（CRUD、鉴权、高级模式等）](https://github.com/gothinkster/react-mobx-realworld-example-app)[编码]
 
 - [React Router v4入门与路由原理](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc)
 
@@ -1735,15 +1736,15 @@ MDN有大量关于Web浏览器API的信息。
 
 ### 3.24 学习渐进式网页应用（PWA）
 
-> *与传统应用程序不同的是，渐进式网页应用混合了普通网页（网站）和移动应用程序。这种新的应用程序模型试图将大多数现代浏览器提供的功能与移动体验的好处结合起来。*
+> *与传统应用程序不同的是，PWA混合了普通网页（网站）和移动应用程序。这种新的应用程序模型试图将大多数现代浏览器提供的功能与移动体验的好处结合起来。*
 >
-> *在2015年，设计师朗西斯·贝里曼(Frances Berriman)和Google Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”渐进式网页应用“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。*
+> *在2015年，设计师朗西斯·贝里曼(Frances Berriman)和Google Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”PWA“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。*
 >
 > *依据Google开发者的介绍，这些特性是：*
 >
 > - *渐进式 - 适用于所有用户，不考虑浏览器的选择，因为其以渐进式增强为核心原则构建的。*
 > 
-> - *连通性独立 - 适用于任何形式：桌面，移动，平板或未出现的形式。*
+> - *连通性独立 - 适用于任何形式：桌面、移动、平板或未出现的形式。*
 > 
 > - *类App - 对用于来说更像一款app，以其app风格的交互和导航。*
 > 
@@ -1751,7 +1752,7 @@ MDN有大量关于Web浏览器API的信息。
 > 
 > - *安全 - 通过HTTPS可以防止窥探和确保内容不被篡改。*
 > 
-> - *发现 - 得益于W3C manifests[6]和services woker注册范围允许搜苏引擎检索刀它们，可以识别为”应用程序“。*
+> - *发现 - 得益于W3C manifests[6]和services woker注册范围允许搜索引擎检索到它们，可以识别为”应用程序“。*
 > 
 > - *重新接触 - 通过推送通知等特性可以轻易让用户重新接触。*
 > 
@@ -1762,35 +1763,35 @@ MDN有大量关于Web浏览器API的信息。
 > *— [维基百科](https://en.wikipedia.org/wiki/Progressive_web_app)*
 >
 
-- [渐进式网页应用初学者指南](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) [阅读]
+- [PWA初学者指南](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) [阅读]
 
-- [渐进式网页应用](https://developers.google.com/web/progressive-web-apps/) [阅读]
+- [PWA](https://developers.google.com/web/progressive-web-apps/) [阅读]
 
-- [渐进式网页应用入门](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) [观看][付费]
+- [PWA入门](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) [观看][付费]
 
-- [构建渐进式网页应用](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) [观看][付费]
+- [构建PWA](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) [观看][付费]
 
-- [Google推出的渐进式网页应用简介](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) [观看]
+- [Google推出的PWA介绍](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) [观看]
 
 - [原生应用注定失败](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) [阅读]
 
 - [为什么原生应用注定失败：原生应用注定失败 第2期](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) [阅读]
 
-- [你的第一个渐进式网页应用](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)[阅读]
+- [你的第一个PWA](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)[阅读]
 
-- [渐进式网页应用与离线](https://frontendmasters.com/courses/progressive-web-apps/) [观看][付费]
+- [PWA与离线](https://frontendmasters.com/courses/progressive-web-apps/) [观看][付费]
 
 ### 3.25 学习JS API设计
 
-- [设计更好的JavaScript APIs](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) [阅读]
+- [设计更好的JavaScript API](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) [阅读]
 
-- [编写JavaScript APIs][http://blog.wolksoftware.com/writing-javascript-apis][阅读]
+- [编写JavaScript API](http://blog.wolksoftware.com/writing-javascript-apis)[阅读]
 
 ### 3.26 学习浏览器网页开发者工具
 
 > *网页开发者能使用网页开发工具进行测试和debug他们的代码。这与网站构建工具和IDE不同，它不是帮助开发者直接创造网页，而是用于去测试用户所看见的网站或网页应用界面的工具。*
 >
-> *网页开发工具作为浏览器的插件或浏览器内置功能出现。现时最流行的网页浏览器如，Google Chrome，Firefox，Opera，Internet Explorer和Safari都内置了网页工具帮助来网页开发者，许多附加的插件都能在他们引以为傲的插件下载中心找到。*
+> *网页开发工具作为浏览器的插件或浏览器内置功能出现。现时最流行的网页浏览器,如Google Chrome、Firefox、Opera、Internet Explorer和Safari都内置了网页工具帮助来网页开发者，许多附加的插件都能在他们引以为傲的插件下载中心找到。*
 >
 > *网页开发工具允许开发者使用各种网页技术，包括HTML，CSS，DOM，JavaScript以及网页浏览器处理的其他组件。由于对网页浏览器日益增长的需求，流行的网页浏览器已经包含了更多面向开发者的特性。*
 >
@@ -1815,9 +1816,9 @@ MDN有大量关于Web浏览器API的信息。
 
 **Chrome开发者工具文档：**
 
-- [Command Line API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+- [命令行API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 
-- [键盘&UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+- [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 
 - [Per-Panel文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
 
@@ -1836,13 +1837,13 @@ MDN有大量关于Web浏览器API的信息。
 
 - [命令行高级用户](http://commandlinepoweruser.com/) [观看]
 
-- [深入学习命令行变得危险](http://www.learnenough.com/command-line-tutorial) [阅读][部分免费]
+- [深入学习命令行是危险的](http://www.learnenough.com/command-line-tutorial) [阅读][部分免费]
 
 **进阶学习：**
 
 - [高级命令行技术](https://code.tutsplus.com/courses/advanced-command-line-techniques) [观看][付费]
 
-- [Bash，VIM & Regex入门](https://frontendmasters.com/courses/bash-vim-regex/) [观看][付费]
+- [Bash、VIM和Regex入门](https://frontendmasters.com/courses/bash-vim-regex/) [观看][付费]
 
 ### 3.28 学习Node.js
 
@@ -1855,7 +1856,7 @@ MDN有大量关于Web浏览器API的信息。
 
 **基础学习：**
 
-- [Node的艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [阅读]
+- [Node艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [阅读]
 
 - [Node.js介绍](https://frontendmasters.com/courses/node-js/) [观看][付费]
 
@@ -1863,7 +1864,7 @@ MDN有大量关于Web浏览器API的信息。
 
 - [io.js 和 Node.js Next：入门](http://www.pluralsight.com/courses/running-node-applications-io-js) [观看][付费]
 
-- [学习Node：向服务端侧转变](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) [阅读][付费]
+- [学习Node：向服务端转变](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) [阅读][付费]
 
 - [学习Node.js](https://github.com/workshopper/learnyounode)[自学研讨会]
 
@@ -1881,7 +1882,7 @@ MDN有大量关于Web浏览器API的信息。
 
 **基础学习：**
 
-- [面向没耐心的程序员的JavaScript - 模块](http://exploringjs.com/impatient-js/ch_modules.html) [阅读]
+- [面向没耐心程序员的JavaScript - 模块](http://exploringjs.com/impatient-js/ch_modules.html) [阅读]
 
 - [深入ES6模块](https://ponyfoo.com/articles/es6-modules-in-depth) [阅读]
 
@@ -1891,19 +1892,19 @@ MDN有大量关于Web浏览器API的信息。
 
 **参考文献与文档：**
 
-- [MDN - 导出](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+- [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 
-- [MDN - 导入](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
-### 3.30 学习Module Loaders/Bundlers
+### 3.30 学习模块Loader和Bundler
 
 **Webpack:**
 
 - [Webpack](https://webpack.js.org/guides/getting-started/) [阅读]
 
-- [Webpack 4基础原理](https://frontendmasters.com/courses/webpack-fundamentals/) [观看][收费]
+- [Webpack4基本原理](https://frontendmasters.com/courses/webpack-fundamentals/) [观看][付费]
 
-- [Survivejs.com Webpack书](https://survivejs.com/webpack/introduction/) [阅读]
+- [Survivejs.com关于Webpack的书](https://survivejs.com/webpack/introduction/) [阅读]
 
 **Rollup:**
 
@@ -1915,6 +1916,7 @@ MDN有大量关于Web浏览器API的信息。
 
 - [Parcel](https://parceljs.org/getting_started.html) [阅读]
 
+
 ### 3.31 学习包管理器
 
 > *包管理器或包管理系统是一组软件集合的工具，它可以通过一致的方式自动执行安装，更新，配置以及移除计算机操作系统软件包的过程。它通常维护了一个软件依和版本信息的赖数据库，以防止软件无法匹配和丢失前置依赖。*
@@ -1924,9 +1926,9 @@ MDN有大量关于Web浏览器API的信息。
 
 **基础学习：**
 
-- [JavaScript包管理器工作原理的简介](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) [阅读]
+- [JavaScript包管理器工作原理介绍](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) [阅读]
 
-- [npm&Bower所用的SemVer神秘与魔幻系列](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [阅读]
+- [npm和Bower所用的SemVer神秘与魔幻系列](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [阅读]
 
 - [包管理器：针对菜鸟前端开发者的一份入门指南](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) [阅读]
 
@@ -1941,7 +1943,7 @@ MDN有大量关于Web浏览器API的信息。
 > *— [维基百科](https://en.wikipedia.org/wiki/Version_control)*
 >
 
-Git是现今最常见用于版本控制解决方案。学习它！
+Git是现今最常见用于版本控制解决方案。学习它吧！
 
 **基础学习：**
 
@@ -1949,7 +1951,7 @@ Git是现今最常见用于版本控制解决方案。学习它！
 
 - [Git基础原理](http://www.pluralsight.com/courses/git-fundamentals) [观看][收费]
 
-- [充分学习Git](https://www.learnenough.com/git-tutorial) [阅读]
+- [掌握Git](https://www.learnenough.com/git-tutorial) [阅读]
 
 - [Ry的Git教程](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) [阅读]
 
@@ -1985,17 +1987,17 @@ Git是现今最常见用于版本控制解决方案。学习它！
 
 - [Gulp基础](http://teamtreehouse.com/library/gulp-basics) [观看][付费]
 
-- [JavaScript使用Gulp.js构建自动化](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [观看][付费]
+- [JavaScript使用Gulp.js自动化构建](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [观看][付费]
 
 **参考文献与文档：**
 
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
-Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应用程序栈的额外复杂性之前，你应该问一下自己，`npm run`是否可以完成这样工作。如果你需要更多，使用Gulp。
+Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应用程序栈的额外复杂性之前，你应该问一下自己，`npm run`是否可以完成这样工作。如果你需要更多功能，再使用Gulp。
 
 **阅读：**
 
-- [踢开Grunt，一份使用npm作为构建工具的指引](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+- [抛弃Grunt，一份使用npm作为构建工具的指引](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
 
 - [使用npm作为你下一个项目的构建系统](https://drublic.de/blog/npm-builds)
 
@@ -2020,15 +2022,15 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [高性能网站：前端工程师的关键知识](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) [阅读][付费]
 
-- [JavaScript性能摇滚](http://javascriptrocks.com/) [阅读][付费]
+- [JavaScript性能Rock](http://javascriptrocks.com/) [阅读][付费]
 
 - [页面速度洞察规则][https://developers.google.com/speed/docs/insights/rules][阅读]
 
-- [时下的性能工具](http://www.perf-tooling.today/) [阅读]
+- [最新的性能工具](http://www.perf-tooling.today/) [阅读]
 
 - [性能日程表](http://calendar.perfplanet.com/) [阅读]
 
-- [性能.摇滚](http://perf.rocks/) [阅读]
+- [性能.rock](http://perf.rocks/) [阅读]
 
 - [使用WebPageTest](https://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=91a76d5d4b4f47cf4e0d1392cc9cea30&camp=1789&creative=9325) [阅读]
 
@@ -2036,7 +2038,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [网站性能](https://frontendmasters.com/courses/web-performance/) [观看][付费]
 
-- [基于Webpack 4的Web性能](https://frontendmasters.com/courses/performance-webpack/) [观看][付费]
+- [基于Webpack4的Web性能](https://frontendmasters.com/courses/performance-webpack/) [观看][付费]
 
 - [网站性能优化](https://www.udacity.com/course/website-performance-optimization--ud884) [观看]
 

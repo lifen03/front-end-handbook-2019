@@ -13,17 +13,17 @@
 
 - [Gulp基础](http://teamtreehouse.com/library/gulp-basics) [观看][付费]
 
-- [JavaScript使用Gulp.js构建自动化](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [观看][付费]
+- [JavaScript使用Gulp.js自动化构建](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [观看][付费]
 
 **参考文献与文档：**
 
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
-Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应用程序栈的额外复杂性之前，你应该问一下自己，`npm run`是否可以完成这样工作。如果你需要更多，使用Gulp。
+Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应用程序栈的额外复杂性之前，你应该问一下自己，`npm run`是否可以完成这样工作。如果你需要更多功能，再使用Gulp。
 
 **阅读：**
 
-- [踢开Grunt，一份使用npm作为构建工具的指引](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+- [抛弃Grunt，一份使用npm作为构建工具的指引](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
 
 - [使用npm作为你下一个项目的构建系统](https://drublic.de/blog/npm-builds)
 

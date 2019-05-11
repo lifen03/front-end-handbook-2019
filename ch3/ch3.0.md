@@ -32,11 +32,11 @@
 
   * 3.14 学习辅助功能
 
-  * 3.15 学习Web浏览器API
+  * 3.15 学习Web API 和浏览器API
 
   * 3.16 学习JSON（JavaScript对象表示法）
 
-  * 3.17 学习JS模板](ch3/ch3.17.md)
+  * 3.17 学习JS模板
 
   * 3.18 学习静态站点生成器
 
@@ -62,7 +62,7 @@
 
   * 3.29 学习模块
 
-  * 3.30 学习Module Loaders/Bundlers
+  * 3.30 学习模块Loader和Bundler
 
   * 3.31 学习包管理器
 

@@ -2,7 +2,7 @@
 
 > *网页开发者能使用网页开发工具进行测试和debug他们的代码。这与网站构建工具和IDE不同，它不是帮助开发者直接创造网页，而是用于去测试用户所看见的网站或网页应用界面的工具。*
 >
-> *网页开发工具作为浏览器的插件或浏览器内置功能出现。现时最流行的网页浏览器如，Google Chrome，Firefox，Opera，Internet Explorer和Safari都内置了网页工具帮助来网页开发者，许多附加的插件都能在他们引以为傲的插件下载中心找到。*
+> *网页开发工具作为浏览器的插件或浏览器内置功能出现。现时最流行的网页浏览器,如Google Chrome、Firefox、Opera、Internet Explorer和Safari都内置了网页工具帮助来网页开发者，许多附加的插件都能在他们引以为傲的插件下载中心找到。*
 >
 > *网页开发工具允许开发者使用各种网页技术，包括HTML，CSS，DOM，JavaScript以及网页浏览器处理的其他组件。由于对网页浏览器日益增长的需求，流行的网页浏览器已经包含了更多面向开发者的特性。*
 >
@@ -27,9 +27,9 @@
 
 **Chrome开发者工具文档：**
 
-- [Command Line API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+- [命令行API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 
-- [键盘&UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+- [键盘和UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 
 - [Per-Panel文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
 
