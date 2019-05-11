@@ -32,7 +32,7 @@
 
 - [React-基础理论](https://github.com/reactjs/react-basic) [阅读]
 
-- [React + Mobx实战示例代码库（CRUD, 鉴权，高级模式等等）](https://github.com/gothinkster/react-mobx-realworld-example-app)[编码]
+- [React + Mobx实战示例代码库（CRUD、鉴权、高级模式等）](https://github.com/gothinkster/react-mobx-realworld-example-app)[编码]
 
 - [React Router v4入门与路由原理](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc)
 

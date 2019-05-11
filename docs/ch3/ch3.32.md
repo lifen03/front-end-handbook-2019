@@ -5,7 +5,7 @@
 > *— [维基百科](https://en.wikipedia.org/wiki/Version_control)*
 >
 
-Git是现今最常见用于版本控制解决方案。学习它！
+Git是现今最常见用于版本控制解决方案。学习它吧！
 
 **基础学习：**
 
@@ -13,7 +13,7 @@ Git是现今最常见用于版本控制解决方案。学习它！
 
 - [Git基础原理](http://www.pluralsight.com/courses/git-fundamentals) [观看][收费]
 
-- [充分学习Git](https://www.learnenough.com/git-tutorial) [阅读]
+- [掌握Git](https://www.learnenough.com/git-tutorial) [阅读]
 
 - [Ry的Git教程](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) [阅读]
 

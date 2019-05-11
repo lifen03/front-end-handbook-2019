@@ -74,7 +74,7 @@
 
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 
-* [Ghost Inspector](https://ghostinspector.com/)
+* [Ghost检查工具](https://ghostinspector.com/)
 
 * [diff.io](https://diff.io/)
 

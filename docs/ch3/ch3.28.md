@@ -9,7 +9,7 @@
 
 **基础学习：**
 
-- [Node的艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [阅读]
+- [Node艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [阅读]
 
 - [Node.js介绍](https://frontendmasters.com/courses/node-js/) [观看][付费]
 
@@ -17,7 +17,7 @@
 
 - [io.js 和 Node.js Next：入门](http://www.pluralsight.com/courses/running-node-applications-io-js) [观看][付费]
 
-- [学习Node：向服务端侧转变](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) [阅读][付费]
+- [学习Node：向服务端转变](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) [阅读][付费]
 
 - [学习Node.js](https://github.com/workshopper/learnyounode)[自学研讨会]
 

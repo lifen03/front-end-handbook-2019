@@ -48,7 +48,7 @@
 
 **CSS重置：**
 
-> *CSS重置(或“重置CSS”)是一组简短的、通常经过压缩(缩小)的CSS规则，用于将所有HTML元素的样式重置为一致的基线。*
+> *CSS重置(又叫“重置CSS”)是一组简短的、通常经过压缩(缩小)的CSS规则，用于将所有HTML元素的样式重置为一致的基线。*
 > 
 > *—[cssreset.com](http://cssreset.com/what-is-a-css-reset/)*
 
@@ -76,23 +76,23 @@
 
 * [cssreference.io](http://cssreference.io/)
 
-* [CSS Indexes - A listing of every term defined by CSS specs](https://drafts.csswg.org/indexes/)
+* [CSS索引 - CSS规范定义每个术语的列表](https://drafts.csswg.org/indexes/)
 
 * [css4-selectors.com](http://css4-selectors.com/)
 
 * [css4 Rocks](http://css4.rocks/)
 
-* [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
+* [CSS触发器...布局、绘制和合成的游戏](http://csstriggers.com/)
 
 * [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 
 * [cssvalues.com](http://cssvalues.com/)
 
-* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN CSS参考](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-* [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
+* [CSS备忘单](https://adam-marsden.co.uk/css-cheat-sheet/)
 
-* [What’s next for CSS?](https://cssdb.org/)
+* [CSS的下一步是什么？](https://cssdb.org/)
 
 **校验和提示:**
 
@@ -118,11 +118,11 @@
 
 **在线创建、生成和测试工具:**
 
-* [CSS Arrow Please](http://cssarrowplease.com/)
+* [请用CSS箭头](http://cssarrowplease.com/)
 
 * [CSS Matic](http://www.cssmatic.com/)
 
-* [Enjoy CSS](http://enjoycss.com/)
+* [享受CSS](http://enjoycss.com/)
 
 * [flexplorer](http://bennettfeely.com/flexplorer/)
 
@@ -130,17 +130,24 @@
 
 * [patternizer.com](http://patternizer.com/)
 
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [极限CSS梯型编辑器](http://www.colorzilla.com/gradient-editor/)
 
 **CSS架构设计：**
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) \[阅读\]
+
 * [BEM](http://getbem.com/introduction/)
+
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
 * [OOCSS](http://oocss.org/) \[阅读\]
+
 * [SMACSS](https://smacss.com/) \[阅读\]\[付费\]
-  * [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) \[观看\]\[付费\]
+
+  * [CSS的可扩展模块化体系结构(SMACSS)](https://frontendmasters.com/courses/smacss/) \[观看\]\[付费\]
+  
 * [SUIT CSS](http://suitcss.github.io)
+
 * [rscss](http://rscss.io/)
 
 <!-- Authoring/Architecting Conventions: -->
@@ -154,11 +161,11 @@
 
 * [常用的CSS](https://github.com/necolas/idiomatic-css) \[阅读\]
 
-* [MaintainableCSS](http://maintainablecss.com/) \[阅读\]
+* [可维护的CSS](http://maintainablecss.com/) \[阅读\]
 
 * [HTML和CSS灵活开发、持久和可持续的标准](http://mdo.github.io/code-guide/) \[阅读\]
 
-* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) \[阅读\]
+* [Airbnb CSS和Sass风格指南](https://github.com/airbnb/css) \[阅读\]
 
 **风格指南资源：**
 
@@ -172,12 +179,14 @@
 
 **CSS in JS:**
 
-* [styled components](https://www.styled-components.com/)
+* [样式组件](https://www.styled-components.com/)
+
 * [Emotion](https://emotion.sh/docs/introduction)
+
 * [Radium](https://formidable.com/open-source/radium/)
+
 * [Aphrodite](https://github.com/Khan/aphrodite)
 
-<!-- **Trending CSS Repositories on GitHub This Month： -->
 **本月在GitHub上流行的CSS库：**
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)

@@ -1,20 +1,20 @@
 ### 2.2 前端职称
 
-[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
+[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
 
-以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼的职位，通常是指拥有HTML，CSS，DOM和JavaScript有一定程度专业知识的人。
+以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼职位的人，通常是指在HTML，CSS，DOM和JavaScript上有一定程度专业知识的人。
 
 **前端开发者**：描述在一定程度上精通HTML、CSS、DOM和JavaScript并在Web平台上实现这些技术的开发者的通用职称。
 
-**前端工程师（JavaScript开发者或全栈JavaScript开发者）**：这个职称授予给来自计算机科学、工程学背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当职称中包含“JavaScript应用程序”时，表明需要开发者必须是具有高级编程、软件开发和应用程序开发技能的高级JavaScript开发者（即，也拥有多年构建前端软件应用的经验）。
+**前端工程师（JavaScript开发者或全栈JavaScript开发者）**：这个职称授予给来自计算机科学、工程学背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当职称中包含“JavaScript应用程序”时，表明需要开发者必须是具有高级编程、软件开发和应用程序开发技能的高级JavaScript开发者，同时也拥有多年构建前端软件应用的经验。
 
 **CSS和HTML开发者**：这个前端职称描述的是除了JavaScript和应用程序之外，开发者对HTML和CSS具有一定熟练度。
 
-**Web前端设计师**：包含“设计师”的职称，表明设计师需要具备前端技能（即，HTML 和 CSS）以及专业的设计(视觉设计和交互设计)技能。
+**Web前端设计师**：包含“设计师”的职称，表明设计师需要具备前端技能（HTML 和 CSS）以及专业的设计(视觉设计和交互设计)技能。
 
 **UI（用户界面）**开发者或工程师：当头衔中包含“交互”和“UI”时，表明开发者除了应具备交互设计能力，还需具备前端开发者技能和前端工程师技能。
 
-**移动或平板电脑前端开发者**：包含“移动”和“平板”的职称，有在移动或平板电脑设备运行的前端开发经验（要么是原生的，要么是在Web平台上，即，在浏览器上）。
+**移动或平板电脑前端开发者**：包含“移动”和“平板”的职称，有在移动或平板电脑设备运行的前端开发经验（要么是原生的，要么是在Web平台上，比如在浏览器上）。
 
 **前端SEO专家**：包含“SEO”的职称，描述的是开发者具备以SEO策略来设计前端技术的丰富经验。
 

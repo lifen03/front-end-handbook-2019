@@ -1,4 +1,4 @@
-### 2.5 前端开发者对...开发
+### 2.5 前端开发者跨设备开发
 
 前端开发者使用HTML、CSS和JS，通常运行在以下操作系统(简称OS)的[web平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)(例如Web浏览器)上：
 

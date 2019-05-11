@@ -7,9 +7,9 @@
 
 **基础学习：**
 
-- [JavaScript包管理器工作原理的简介](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) [阅读]
+- [JavaScript包管理器工作原理介绍](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) [阅读]
 
-- [npm&Bower所用的SemVer神秘与魔幻系列](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [阅读]
+- [npm和Bower所用的SemVer神秘与魔幻系列](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [阅读]
 
 - [包管理器：针对菜鸟前端开发者的一份入门指南](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) [阅读]
 

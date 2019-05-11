@@ -4,7 +4,7 @@
 
 * [SVG要素和动画, v2](https://frontendmasters.com/courses/svg-essentials-animation/) \[付费\]\[观看\]
 
-* [网络动画中的风险s](https://www.codeschool.com/courses/adventures-in-web-animations) \[付费\]\[观看\]
+* [动画在网络中的风险](https://www.codeschool.com/courses/adventures-in-web-animations) \[付费\]\[观看\]
 
 * [动画与Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) \[付费\]\[观看\]
 
@@ -20,9 +20,9 @@
 
 * [使用CSS进行运动设计](https://frontendmasters.com/courses/motion-design-css/) \[付费\]\[观看\]
 
-* [2015动画状态](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) \[观看\]
+* [动画状态2015](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) \[观看\]
 
-* [使用JavaScript开发Web动画：开发和设计（开发和设计）](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[付费\]\[阅读\]
+* [使用JavaScript开发Web动画：开发和设计](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[付费\]\[阅读\]
 
 
 **标准和规范：**

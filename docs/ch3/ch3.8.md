@@ -1,15 +1,15 @@
 ### 3.8 学习HTML和CSS
 
-> ***HTML** — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
+> *<b>HTML</b> — 超文本标记语言，通常称为HTML，是用于创建网页的标准标记语言。 Web浏览器可以读取HTML文件并将其呈现为可见或可听的网页。 HTML在语义上描述了网站的结构以及用于表示的提示，使其成为标记语言，而不是编程语言。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/HTML) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 >
 
-> ***CSS** — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
+> *<b>CSS</b> — 层叠样式表(CSS)是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。 虽然最常用于更改用HTML和XHTML编写的网页和用户界面的样式，但该语言可以应用于任何类型的XML文档，包括纯XML，SVG和XUL。 与HTML和JavaScript一起，CSS是大多数网站使用的基础技术，用于创建具有视觉吸引力的网页，Web应用程序的用户界面以及许多移动应用程序的用户界面。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 
-就像要建造房屋，人们可能会认为HTML是结构和CSS是绘画和装饰。
+就像要建造房屋，人们可能会认为HTML是结构而CSS是绘画和装饰。
 
 **基础学习：**
 
@@ -31,7 +31,7 @@
 
 * [互相干扰很难](https://internetingishard.com/) \[阅读\]
 
-* [HTML/CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
+* [HTML和CSS简介：制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[观看\]
 
 * [学习编码HTML和CSS](http://learn.shayhowe.com/html-css/) \[阅读\]
 
@@ -61,7 +61,7 @@
 
 * [从CSS4到CSS1的CSS选择器](http://css4-selectors.com/selectors/) \[阅读\]
 
-* [CSS秘诀：日常网页设计问题的更好解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [CSS秘诀：日常网页设计问题更好的解决方案](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
 
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) \[阅读\]
 
@@ -69,11 +69,11 @@
 
 * [什么是Flexbox？！ 一个简单，免费的20集视频课程，帮助你掌握CSS Flexbox](http://flexbox.io/) \[观看\]
 
-* [CSS30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
+* [CSS 30秒 — 精选的有用CSS片段集合，你可以在30秒或更短的时间内理解这些片段。](https://atomiks.github.io/30-seconds-of-css/) \[阅读\]
 
 **参考文献和文档：**
 
-* [CSS触发器...布局，绘画和复合的游戏](http://csstriggers.com/)
+* [CSS触发器...布局、绘画和合成的游戏](http://csstriggers.com/)
 
 * [cssreference.io](http://cssreference.io/)
 
@@ -107,11 +107,11 @@
 
 * [CSS索引 - CSS规范定义的每个术语的列表](https://drafts.csswg.org/indexes/)
 
-* [Living标准中的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [来自持续更新标准的HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 
 * [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
-* Living标准中的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* 来自持续更新标准的[HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
 
 * [W3C的HTML 5.2](http://w3c.github.io/html/)
 

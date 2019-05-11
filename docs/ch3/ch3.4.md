@@ -1,6 +1,7 @@
 ### 3.4 学习HTTP网络协议（包括CORS和WebSockets）
 
-> ***HTTP** — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
+> *<b>HTTP</b> — 超文本传输协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议。 HTTP是万维网数据通信的基础。*
+>
 > *— [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)*
 
 **HTTP说明**
@@ -19,7 +20,7 @@
 
 * [MDN: HTTP概述](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) \[观看\]
 
-* [HTTP: 权威指南（权威指南）](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
+* [HTTP: 权威指南](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [HTTP/2常见问题](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) \[观看\]
 
@@ -39,7 +40,7 @@
 
 * [HTTP60秒内的状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
 
-> ***CORS** — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
+> *<b>CORS</b> — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) & [中文地址](https://zh.wikipedia.org/wiki/%E8%B7%A8%E4%BE%86%E6%BA%90%E8%B3%87%E6%BA%90%E5%85%B1%E4%BA%AB)*
 
@@ -53,7 +54,7 @@
 
 * [HTTP访问控制 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[观看\]
 
-> ***WebSocket** — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
+> *<b>WebSocket</b> — WebSocket是一种通过单个TCP连接提供全双工通信通道的协议。WebSocket协议在2011年由IETF标准化为RFC 6455，Web IDL中的WebSocket API由W3C标准化。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/WebSocket) & [中文地址](https://zh.wikipedia.org/wiki/WebSocket)*
 
@@ -61,7 +62,7 @@
 
 * [使用WebSocket连接Web](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[观看\]
 
-* [WebSocket：轻量级客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
+* [WebSocket：轻量级的客户端 — 服务器通信](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[观看\]\[付费\]
 
 * [WebSocket协议](https://tools.ietf.org/html/rfc6455) \[观看\]
 

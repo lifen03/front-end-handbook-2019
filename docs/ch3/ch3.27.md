@@ -11,11 +11,11 @@
 
 - [命令行高级用户](http://commandlinepoweruser.com/) [观看]
 
-- [深入学习命令行变得危险](http://www.learnenough.com/command-line-tutorial) [阅读][部分免费]
+- [深入学习命令行是危险的](http://www.learnenough.com/command-line-tutorial) [阅读][部分免费]
 
 **进阶学习：**
 
 - [高级命令行技术](https://code.tutsplus.com/courses/advanced-command-line-techniques) [观看][付费]
 
-- [Bash，VIM & Regex入门](https://frontendmasters.com/courses/bash-vim-regex/) [观看][付费]
+- [Bash、VIM和Regex入门](https://frontendmasters.com/courses/bash-vim-regex/) [观看][付费]
 

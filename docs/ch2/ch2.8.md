@@ -27,9 +27,9 @@
 
 - [前端开发者面试题](http://thatjsdude.com/interview/index.html)
 
-- [前端JavaScript最佳面试题（由一位前端工程师所编著）](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
+- [（由一位前端工程师所编著的）前端JavaScript最佳面试题](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
 
-**你的疑问:**
+**你的提问:**
 
-- [一份开发者可向未来老板提问的开源列表](https://github.com/ChiperSoft/InterviewThis)
+- [一份开发者可向未来老板提问的开放列表](https://github.com/ChiperSoft/InterviewThis)
 

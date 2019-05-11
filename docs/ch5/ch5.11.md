@@ -30,7 +30,7 @@
 
 * [Luxon](https://moment.github.io/luxon/)
 
-  * [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  * [你（可能）不需要Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
 * [Math.js](http://mathjs.org/)
 
@@ -130,7 +130,7 @@
 
 **优化:**
 
-* [Closure Compiler](https://developers.google.com/closure/compiler/)
+* [闭包编译器](https://developers.google.com/closure/compiler/)
 
 * [Terser](https://github.com/terser-js/terser)
 
@@ -140,7 +140,7 @@
 
 **混淆：**
 
-* [Javascript Obfuscator](http://www.javascriptobfuscator.com/) \[免费\]
+* [Javascript混淆工具](http://www.javascriptobfuscator.com/) \[免费\]
 
 * [JScrambler](https://jscrambler.com/) \[付费\]
 
@@ -160,9 +160,9 @@
 
 **编写规范工具：**
 
-* [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
+* [Airbnb的ESLint配置，遵循我们的样式指南](https://www.npmjs.com/package/eslint-config-airbnb)
 
-* [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
+* [标准-ESLint可共享Config](https://github.com/feross/eslint-config-standard)
 
 **本月在GitHub上流行的JS库：**
 

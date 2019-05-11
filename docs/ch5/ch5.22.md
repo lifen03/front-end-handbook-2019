@@ -22,7 +22,7 @@
 
 * [FusionCharts](http://www.fusioncharts.com/) \[付费\]
 
-* [Google Charts](https://developers.google.com/chart/interactive/docs/)
+* [Google图表](https://developers.google.com/chart/interactive/docs/)
 
 * [Highcharts](http://www.highcharts.com/) \[非商业 部分免费\]
 

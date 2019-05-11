@@ -10,7 +10,7 @@
 
 + [HTML骨骼](http://html5bones.com/)
 
-+ [移动端模板](https://html5boilerplate.com/mobile/)
++ [移动模板](https://html5boilerplate.com/mobile/)
 
 **HTML Polyfill：**
 

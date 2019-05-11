@@ -1,4 +1,4 @@
-### 5.23 图形（SVG，canvas，WebGL）工具
+### 5.23 图形（SVG、canvas、WebGL）工具
 
 **常规:**
 

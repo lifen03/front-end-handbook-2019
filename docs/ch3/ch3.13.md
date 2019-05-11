@@ -9,7 +9,7 @@
 
 **字体:**
 
-* [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
+* [字体加载策略的全面指南](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
 
 * [漂亮的Web Type是来自谷歌Web字体字典的最佳字体展示](http://hellohappy.org/beautiful-web-type/) \[阅读\]
 

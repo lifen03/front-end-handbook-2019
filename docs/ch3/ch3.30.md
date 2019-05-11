@@ -1,12 +1,12 @@
-### 3.30 学习Module Loaders/Bundlers
+### 3.30 学习模块Loader和Bundler
 
 **Webpack:**
 
 - [Webpack](https://webpack.js.org/guides/getting-started/) [阅读]
 
-- [Webpack 4基础原理](https://frontendmasters.com/courses/webpack-fundamentals/) [观看][收费]
+- [Webpack4基本原理](https://frontendmasters.com/courses/webpack-fundamentals/) [观看][付费]
 
-- [Survivejs.com Webpack书](https://survivejs.com/webpack/introduction/) [阅读]
+- [Survivejs.com关于Webpack的书](https://survivejs.com/webpack/introduction/) [阅读]
 
 **Rollup:**
 
