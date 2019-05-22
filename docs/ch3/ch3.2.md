@@ -14,7 +14,7 @@
 
 4. Safari（引擎：Webkit + SquirrelFish）
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/statcounter.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/statcounter.png)
 
 *图片来源: [http://gs.statcounter.com/browser-market-share](http://gs.statcounter.com/browser-market-share)*
 

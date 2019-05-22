@@ -4,7 +4,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Internet) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how-the-internet-works.jpg)
 
 *图片来源: [https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)*
 
@@ -26,7 +26,7 @@
 
 * [不要害怕上网](http://www.dontfeartheinternet.com/)
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/who-runs-the-internet-infographic.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/who-runs-the-internet-infographic.jpg)
 
 *图片来源: [http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/](http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/)*
 

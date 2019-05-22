@@ -8,7 +8,7 @@
 
 翻译&校验：[neekychan](https://github.com/neekychan)([微博](https://weibo.com/cwlay)) 和 [freedom](https://github.com/yylifen) 
 
-<img src="https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg" alt="前端开发者手册2019" title="前端开发者手册2019" height="600" />
+<img src="https://yylifen.github.io/front-end-handbook-2019/image/FM_2019Cover_final.jpg" alt="前端开发者手册2019" title="前端开发者手册2019" height="600" />
 
 ### 概要
 
@@ -130,7 +130,7 @@
 > 
 > *— [维基百科](https://en.wikipedia.org/wiki/Front-end_web_development)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-front-end-dev.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/what-is-front-end-dev.png)
 
 *图片来源：[https://www.upwork.com/hiring/development/front-end-developer/](https://www.upwork.com/hiring/development/front-end-developer/)*
 
@@ -207,7 +207,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 如何成为一名前端开发者呢？这个非常复杂的问题，可以根据下面的路线图思考一下：
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/frontend.png)
 *图片来源: [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)*
 
 现在一般来说，没人会指望大学毕业能取得前端工程学位。而且，我很少听到或见到有前端开发者，他们可能拥有一个不受欢迎的计算机科学学位或平面设计学位，最终却要专业地编写HTML、CSS和JavaScript。在我看来，现在从事前端工作的大多数人似乎都是自学成才的，或者是从设计和计算机科学领域跨界进入前端领域的。
@@ -293,7 +293,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 > 1、如果你在职称中遇到“全栈”或“网页开发者”这些术语，被雇主用于描述负责Web或应用程序开发各个方面的角色。比如，前端（可能包括设计）和后端。
 
 ### 2.3 前端开发者必备的Web技能
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-tech-employed.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/web-tech-employed.jpg)
 
 下面是被前端开发者所使用的核心Web技能（可以考虑按顺序学习它们）：
 
@@ -441,7 +441,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 - [Web内容无障碍指南（WCAG）的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
 
 ### 2.4 潜在的前端开发者技能
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/front-end-skills.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/front-end-skills.png)
 *图片来源：[http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html)*
 
 对于任何一种专业类型的前端开发者角色，假设已经具备对HTML、CSS、DOM、JavaScript、HTTP、URL和Web浏览器这些基本技能的高级理解。
@@ -580,7 +580,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - [其他](https://en.wikipedia.org/wiki/Internet_of_things)（例如：任何能想象的到的东西，汽车、冰箱、电灯、恒温器等等）
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/growth-iot.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/growth-iot.jpg)
 
 *图片来源:[https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)*
 
@@ -629,15 +629,15 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 2.7 全栈开发者
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/full-stack.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/full-stack.jpg)
 
 全栈开发者这个称谓有几种含义。如此之多，以至于这个称谓尚未有一个明确的定义。仅考虑下面所展示的两个调查结果。这些结果可能更可信，成为一名全栈开发者是很常见的。但是，在我近20年的经验中，这绝不是专业领域的普遍情况。
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack1.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/fullstack1.png)
 
 *图片来源: [https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack2.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/fullstack2.png)
 
 *图片来源: [https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types](https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types)*
 
@@ -732,7 +732,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Internet) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how-the-internet-works.jpg)
 
 *图片来源: [https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)*
 
@@ -754,7 +754,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [不要害怕上网](http://www.dontfeartheinternet.com/)
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/who-runs-the-internet-infographic.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/who-runs-the-internet-infographic.jpg)
 
 *图片来源: [http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/](http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/)*
 
@@ -774,7 +774,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 4. Safari（引擎：Webkit + SquirrelFish）
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/statcounter.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/statcounter.png)
 
 *图片来源: [http://gs.statcounter.com/browser-market-share](http://gs.statcounter.com/browser-market-share)*
 
@@ -838,7 +838,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Domain_Name_System) & [中文地址](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how_dns_works.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how_dns_works.jpg)
 
 *图像来源: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)*
 
@@ -930,7 +930,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [Web托管101: 让你的网站一直在网络上运行](https://www.udemy.com/web-hosting-101/) \[视频\]
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-web-hosting-infographic.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/what-is-web-hosting-infographic.jpg)
 
 *图片来源: [https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg](https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg)*
 
@@ -1160,7 +1160,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Search_engine_optimization)& [中文地址](https://zh.wikipedia.org/wiki/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-does-seo-work.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how-does-seo-work.jpg)
 
 *图像来源: [https://visual.ly/community/infographic/computers/how-does-seo-work](https://visual.ly/community/infographic/computers/how-does-seo-work)*
 
@@ -1537,7 +1537,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.15 学习Web API 和浏览器API
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-api.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/web-api.png)
 
 *图片来源: [http://www.evolutionoftheweb.com/](http://www.evolutionoftheweb.com/)*
 
@@ -2148,7 +2148,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 ### 3.39 学习多设备开发
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/things.jpg)
 
 *图片来源: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)*
 
@@ -2356,7 +2356,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 我推荐使用Visual Studio Code，因为该工具的质量以及对编辑器的持续改进，其由Microsoft提供支持，因此不会停止它的维护和减慢它的更新速度。它被广泛使用：
 
-![Performance](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/vscode.png)
+![Performance](https://yylifen.github.io/front-end-handbook-2019/image/vscode.png)
 
 *图片来源: [https://2018.stateofjs.com/other-tools/text_editors](https://2018.stateofjs.com/other-tools/text_editors)*
 

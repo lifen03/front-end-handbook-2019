@@ -2,7 +2,7 @@
 
 如何成为一名前端开发者呢？这个非常复杂的问题，可以根据下面的路线图思考一下：
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/frontend.png)
 *图片来源: [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)*
 
 现在一般来说，没人会指望大学毕业能取得前端工程学位。而且，我很少听到或见到有前端开发者，他们可能拥有一个不受欢迎的计算机科学学位或平面设计学位，最终却要专业地编写HTML、CSS和JavaScript。在我看来，现在从事前端工作的大多数人似乎都是自学成才的，或者是从设计和计算机科学领域跨界进入前端领域的。

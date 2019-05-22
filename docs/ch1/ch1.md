@@ -8,7 +8,7 @@
 > 
 > *— [维基百科](https://en.wikipedia.org/wiki/Front-end_web_development)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-front-end-dev.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/what-is-front-end-dev.png)
 
 *图片来源：[https://www.upwork.com/hiring/development/front-end-developer/](https://www.upwork.com/hiring/development/front-end-developer/)*
 

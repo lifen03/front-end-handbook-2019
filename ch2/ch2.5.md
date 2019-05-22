@@ -30,7 +30,7 @@
 
 - [其他](https://en.wikipedia.org/wiki/Internet_of_things)（例如：任何能想象的到的东西，汽车、冰箱、电灯、恒温器等等）
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/growth-iot.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/growth-iot.jpg)
 
 *图片来源:[https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)*
 

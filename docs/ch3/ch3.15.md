@@ -1,6 +1,6 @@
 ### 3.15 学习Web API 和浏览器API
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-api.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/web-api.png)
 
 *图片来源: [http://www.evolutionoftheweb.com/](http://www.evolutionoftheweb.com/)*
 

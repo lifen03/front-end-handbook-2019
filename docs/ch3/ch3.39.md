@@ -1,6 +1,6 @@
 ### 3.39 学习多设备开发
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/things.jpg)
 
 *图片来源: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)*
 

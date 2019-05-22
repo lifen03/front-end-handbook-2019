@@ -4,7 +4,7 @@
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Domain_Name_System) & [中文地址](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how_dns_works.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how_dns_works.jpg)
 
 *图像来源: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)*
 

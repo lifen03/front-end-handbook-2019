@@ -4,7 +4,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Search_engine_optimization)& [中文地址](https://zh.wikipedia.org/wiki/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-does-seo-work.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/how-does-seo-work.jpg)
 
 *图像来源: [https://visual.ly/community/infographic/computers/how-does-seo-work](https://visual.ly/community/infographic/computers/how-does-seo-work)*
 

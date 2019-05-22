@@ -1,5 +1,5 @@
 ### 2.3 前端开发者必备的Web技能
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-tech-employed.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/web-tech-employed.jpg)
 
 下面是被前端开发者所使用的核心Web技能（可以考虑按顺序学习它们）：
 

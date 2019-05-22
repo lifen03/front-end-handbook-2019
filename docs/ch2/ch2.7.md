@@ -1,14 +1,14 @@
 ### 2.7 全栈开发者
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/full-stack.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/full-stack.jpg)
 
 全栈开发者这个称谓有几种含义。如此之多，以至于这个称谓尚未有一个明确的定义。仅考虑下面所展示的两个调查结果。这些结果可能更可信，成为一名全栈开发者是很常见的。但是，在我近20年的经验中，这绝不是专业领域的普遍情况。
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack1.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/fullstack1.png)
 
 *图片来源: [https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz)*
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack2.png)
+![](https://yylifen.github.io/front-end-handbook-2019/image/fullstack2.png)
 
 *图片来源: [https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types](https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types)*
 

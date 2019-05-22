@@ -62,7 +62,7 @@
 
 我推荐使用Visual Studio Code，因为该工具的质量以及对编辑器的持续改进，其由Microsoft提供支持，因此不会停止它的维护和减慢它的更新速度。它被广泛使用：
 
-![Performance](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/vscode.png)
+![Performance](https://yylifen.github.io/front-end-handbook-2019/image/vscode.png)
 
 *图片来源: [https://2018.stateofjs.com/other-tools/text_editors](https://2018.stateofjs.com/other-tools/text_editors)*
 

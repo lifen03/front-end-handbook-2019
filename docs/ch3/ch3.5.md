@@ -8,7 +8,7 @@
 
 * [Web托管101: 让你的网站一直在网络上运行](https://www.udemy.com/web-hosting-101/) \[视频\]
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-web-hosting-infographic.jpg)
+![](https://yylifen.github.io/front-end-handbook-2019/image/what-is-web-hosting-infographic.jpg)
 
 *图片来源: [https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg](https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg)*
 
